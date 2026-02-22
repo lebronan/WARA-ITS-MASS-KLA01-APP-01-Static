@@ -1,0 +1,5102 @@
+{
+  "generatedAt": "2026-02-18T15:01:39.215Z",
+  "count": 392,
+  "questions": [
+    {
+      "id": "q0001",
+      "question": "Welcher Dezimalwert entspricht 00010001_2?",
+      "options": [
+        "136",
+        "15",
+        "19",
+        "17"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 17."
+    },
+    {
+      "id": "q0002",
+      "question": "Welcher Dezimalwert entspricht 00011100_2?",
+      "options": [
+        "25",
+        "56",
+        "28",
+        "31"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 28."
+    },
+    {
+      "id": "q0003",
+      "question": "Welcher Dezimalwert entspricht 00100111_2?",
+      "options": [
+        "228",
+        "39",
+        "43",
+        "35"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 39."
+    },
+    {
+      "id": "q0004",
+      "question": "Welcher Dezimalwert entspricht 00110010_2?",
+      "options": [
+        "50",
+        "76",
+        "53",
+        "47"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 50."
+    },
+    {
+      "id": "q0005",
+      "question": "Welcher Dezimalwert entspricht 00111101_2?",
+      "options": [
+        "56",
+        "188",
+        "66",
+        "61"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 61."
+    },
+    {
+      "id": "q0006",
+      "question": "Welcher Dezimalwert entspricht 01001000_2?",
+      "options": [
+        "72",
+        "70",
+        "18",
+        "74"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 72."
+    },
+    {
+      "id": "q0007",
+      "question": "Welcher Dezimalwert entspricht 01010011_2?",
+      "options": [
+        "202",
+        "83",
+        "87",
+        "79"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 83."
+    },
+    {
+      "id": "q0008",
+      "question": "Welcher Dezimalwert entspricht 01011110_2?",
+      "options": [
+        "94",
+        "122",
+        "89",
+        "99"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 94."
+    },
+    {
+      "id": "q0009",
+      "question": "Welcher Dezimalwert entspricht 01101001_2?",
+      "options": [
+        "101",
+        "150",
+        "105",
+        "109"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 105."
+    },
+    {
+      "id": "q0010",
+      "question": "Welcher Dezimalwert entspricht 01110100_2?",
+      "options": [
+        "116",
+        "112",
+        "120",
+        "46"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 116."
+    },
+    {
+      "id": "q0011",
+      "question": "Welcher Dezimalwert entspricht 01111111_2?",
+      "options": [
+        "134",
+        "127",
+        "254",
+        "120"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 127."
+    },
+    {
+      "id": "q0012",
+      "question": "Welcher Dezimalwert entspricht 10001010_2?",
+      "options": [
+        "81",
+        "138",
+        "141",
+        "135"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 138."
+    },
+    {
+      "id": "q0013",
+      "question": "Welcher Dezimalwert entspricht 10010101_2?",
+      "options": [
+        "149",
+        "169",
+        "145",
+        "153"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 149."
+    },
+    {
+      "id": "q0014",
+      "question": "Welcher Dezimalwert entspricht 10100000_2?",
+      "options": [
+        "158",
+        "5",
+        "160",
+        "162"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 160."
+    },
+    {
+      "id": "q0015",
+      "question": "Welcher Dezimalwert entspricht 10101011_2?",
+      "options": [
+        "176",
+        "213",
+        "171",
+        "166"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 171."
+    },
+    {
+      "id": "q0016",
+      "question": "Welcher Dezimalwert entspricht 10110110_2?",
+      "options": [
+        "177",
+        "109",
+        "187",
+        "182"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 182."
+    },
+    {
+      "id": "q0017",
+      "question": "Welcher Dezimalwert entspricht 11000001_2?",
+      "options": [
+        "196",
+        "193",
+        "190",
+        "131"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 193."
+    },
+    {
+      "id": "q0018",
+      "question": "Welcher Dezimalwert entspricht 11001100_2?",
+      "options": [
+        "208",
+        "204",
+        "51",
+        "200"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 204."
+    },
+    {
+      "id": "q0019",
+      "question": "Welcher Dezimalwert entspricht 11010111_2?",
+      "options": [
+        "235",
+        "209",
+        "215",
+        "221"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 215."
+    },
+    {
+      "id": "q0020",
+      "question": "Welcher Dezimalwert entspricht 11100010_2?",
+      "options": [
+        "222",
+        "226",
+        "230",
+        "71"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 226."
+    },
+    {
+      "id": "q0021",
+      "question": "Welcher Dezimalwert entspricht 11101101_2?",
+      "options": [
+        "183",
+        "231",
+        "243",
+        "237"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 237."
+    },
+    {
+      "id": "q0022",
+      "question": "Welcher Dezimalwert entspricht 11111000_2?",
+      "options": [
+        "253",
+        "243",
+        "31",
+        "248"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 248."
+    },
+    {
+      "id": "q0023",
+      "question": "Welcher Dezimalwert entspricht 00010100_2?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "40"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 20."
+    },
+    {
+      "id": "q0024",
+      "question": "Welcher Dezimalwert entspricht 00011111_2?",
+      "options": [
+        "31",
+        "248",
+        "26",
+        "36"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 31."
+    },
+    {
+      "id": "q0025",
+      "question": "Welcher Dezimalwert entspricht 00101010_2?",
+      "options": [
+        "42",
+        "84",
+        "45",
+        "39"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 42."
+    },
+    {
+      "id": "q0026",
+      "question": "Welcher Dezimalwert entspricht 00110101_2?",
+      "options": [
+        "53",
+        "57",
+        "172",
+        "49"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 53."
+    },
+    {
+      "id": "q0027",
+      "question": "Welcher Dezimalwert entspricht 01000000_2?",
+      "options": [
+        "2",
+        "64",
+        "65",
+        "63"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 64."
+    },
+    {
+      "id": "q0028",
+      "question": "Welcher Dezimalwert entspricht 01001011_2?",
+      "options": [
+        "79",
+        "71",
+        "210",
+        "75"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 75."
+    },
+    {
+      "id": "q0029",
+      "question": "Welcher Dezimalwert entspricht 01010110_2?",
+      "options": [
+        "82",
+        "90",
+        "106",
+        "86"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 86."
+    },
+    {
+      "id": "q0030",
+      "question": "Welcher Dezimalwert entspricht 01100001_2?",
+      "options": [
+        "94",
+        "97",
+        "100",
+        "134"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 97."
+    },
+    {
+      "id": "q0031",
+      "question": "Welcher Dezimalwert entspricht 01101100_2?",
+      "options": [
+        "54",
+        "108",
+        "112",
+        "104"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 108."
+    },
+    {
+      "id": "q0032",
+      "question": "Welcher Dezimalwert entspricht 01110111_2?",
+      "options": [
+        "113",
+        "238",
+        "119",
+        "125"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 119."
+    },
+    {
+      "id": "q0033",
+      "question": "Welcher Dezimalwert entspricht 10000010_2?",
+      "options": [
+        "130",
+        "132",
+        "128",
+        "65"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 130."
+    },
+    {
+      "id": "q0034",
+      "question": "Welcher Dezimalwert entspricht 10001101_2?",
+      "options": [
+        "145",
+        "137",
+        "141",
+        "177"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 141."
+    },
+    {
+      "id": "q0035",
+      "question": "Welcher Dezimalwert entspricht 10011000_2?",
+      "options": [
+        "25",
+        "155",
+        "152",
+        "149"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 152."
+    },
+    {
+      "id": "q0036",
+      "question": "Welcher Dezimalwert entspricht 10100011_2?",
+      "options": [
+        "167",
+        "163",
+        "197",
+        "159"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 163."
+    },
+    {
+      "id": "q0037",
+      "question": "Welcher Dezimalwert entspricht 10101110_2?",
+      "options": [
+        "117",
+        "174",
+        "179",
+        "169"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 174."
+    },
+    {
+      "id": "q0038",
+      "question": "Welcher Dezimalwert entspricht 10111001_2?",
+      "options": [
+        "190",
+        "180",
+        "157",
+        "185"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 185."
+    },
+    {
+      "id": "q0039",
+      "question": "Welcher Dezimalwert entspricht 11000100_2?",
+      "options": [
+        "199",
+        "193",
+        "196",
+        "35"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 196."
+    },
+    {
+      "id": "q0040",
+      "question": "Welcher Dezimalwert entspricht 11001111_2?",
+      "options": [
+        "213",
+        "207",
+        "201",
+        "243"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 207."
+    },
+    {
+      "id": "q0041",
+      "question": "Welcher Dezimalwert entspricht 11011010_2?",
+      "options": [
+        "218",
+        "91",
+        "223",
+        "213"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 218."
+    },
+    {
+      "id": "q0042",
+      "question": "Welcher Dezimalwert entspricht 11100101_2?",
+      "options": [
+        "224",
+        "229",
+        "167",
+        "234"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Binaer nach Dezimal: Summe der gesetzten Zweierpotenzen ergibt 229."
+    },
+    {
+      "id": "q0043",
+      "question": "Welche Binaerdarstellung entspricht 10_10?",
+      "options": [
+        "1001",
+        "1011",
+        "10101",
+        "1010"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "10 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1010_2 umgerechnet."
+    },
+    {
+      "id": "q0044",
+      "question": "Welche Binaerdarstellung entspricht 23_10?",
+      "options": [
+        "11000",
+        "10111",
+        "10110",
+        "10100"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "23 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10111_2 umgerechnet."
+    },
+    {
+      "id": "q0045",
+      "question": "Welche Binaerdarstellung entspricht 36_10?",
+      "options": [
+        "100011",
+        "100100",
+        "100111",
+        "100101"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "36 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 100100_2 umgerechnet."
+    },
+    {
+      "id": "q0046",
+      "question": "Welche Binaerdarstellung entspricht 49_10?",
+      "options": [
+        "110001",
+        "1100011",
+        "110000",
+        "110010"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "49 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 110001_2 umgerechnet."
+    },
+    {
+      "id": "q0047",
+      "question": "Welche Binaerdarstellung entspricht 62_10?",
+      "options": [
+        "111111",
+        "1111101",
+        "111110",
+        "111101"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "62 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 111110_2 umgerechnet."
+    },
+    {
+      "id": "q0048",
+      "question": "Welche Binaerdarstellung entspricht 75_10?",
+      "options": [
+        "1001011",
+        "1001010",
+        "1001100",
+        "1001000"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "75 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1001011_2 umgerechnet."
+    },
+    {
+      "id": "q0049",
+      "question": "Welche Binaerdarstellung entspricht 88_10?",
+      "options": [
+        "1011000",
+        "1010111",
+        "1011011",
+        "1011001"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "88 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1011000_2 umgerechnet."
+    },
+    {
+      "id": "q0050",
+      "question": "Welche Binaerdarstellung entspricht 101_10?",
+      "options": [
+        "11001011",
+        "1100110",
+        "1100100",
+        "1100101"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "101 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1100101_2 umgerechnet."
+    },
+    {
+      "id": "q0051",
+      "question": "Welche Binaerdarstellung entspricht 114_10?",
+      "options": [
+        "1110010",
+        "1110001",
+        "1110011",
+        "11100101"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "114 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1110010_2 umgerechnet."
+    },
+    {
+      "id": "q0052",
+      "question": "Welche Binaerdarstellung entspricht 127_10?",
+      "options": [
+        "10000000",
+        "1111110",
+        "1111100",
+        "1111111"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "127 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1111111_2 umgerechnet."
+    },
+    {
+      "id": "q0053",
+      "question": "Welche Binaerdarstellung entspricht 140_10?",
+      "options": [
+        "10001111",
+        "10001101",
+        "10001100",
+        "10001011"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "140 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10001100_2 umgerechnet."
+    },
+    {
+      "id": "q0054",
+      "question": "Welche Binaerdarstellung entspricht 153_10?",
+      "options": [
+        "10011001",
+        "10011010",
+        "100110011",
+        "10011000"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "153 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10011001_2 umgerechnet."
+    },
+    {
+      "id": "q0055",
+      "question": "Welche Binaerdarstellung entspricht 166_10?",
+      "options": [
+        "101001101",
+        "10100111",
+        "10100110",
+        "10100101"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "166 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10100110_2 umgerechnet."
+    },
+    {
+      "id": "q0056",
+      "question": "Welche Binaerdarstellung entspricht 179_10?",
+      "options": [
+        "10110010",
+        "10110011",
+        "10110100",
+        "10110000"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "179 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10110011_2 umgerechnet."
+    },
+    {
+      "id": "q0057",
+      "question": "Welche Binaerdarstellung entspricht 192_10?",
+      "options": [
+        "11000000",
+        "11000011",
+        "10111111",
+        "11000001"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "192 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11000000_2 umgerechnet."
+    },
+    {
+      "id": "q0058",
+      "question": "Welche Binaerdarstellung entspricht 205_10?",
+      "options": [
+        "11001110",
+        "110011011",
+        "11001101",
+        "11001100"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "205 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11001101_2 umgerechnet."
+    },
+    {
+      "id": "q0059",
+      "question": "Welche Binaerdarstellung entspricht 218_10?",
+      "options": [
+        "110110101",
+        "11011010",
+        "11011001",
+        "11011011"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "218 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11011010_2 umgerechnet."
+    },
+    {
+      "id": "q0060",
+      "question": "Welche Binaerdarstellung entspricht 231_10?",
+      "options": [
+        "11100110",
+        "11101000",
+        "11100111",
+        "11100100"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "231 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11100111_2 umgerechnet."
+    },
+    {
+      "id": "q0061",
+      "question": "Welche Binaerdarstellung entspricht 244_10?",
+      "options": [
+        "11110101",
+        "11110111",
+        "11110100",
+        "11110011"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "244 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11110100_2 umgerechnet."
+    },
+    {
+      "id": "q0062",
+      "question": "Welche Binaerdarstellung entspricht 17_10?",
+      "options": [
+        "10000",
+        "10001",
+        "100011",
+        "10010"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "17 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10001_2 umgerechnet."
+    },
+    {
+      "id": "q0063",
+      "question": "Welche Binaerdarstellung entspricht 30_10?",
+      "options": [
+        "11101",
+        "111101",
+        "11111",
+        "11110"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "30 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11110_2 umgerechnet."
+    },
+    {
+      "id": "q0064",
+      "question": "Welche Binaerdarstellung entspricht 43_10?",
+      "options": [
+        "101000",
+        "101010",
+        "101011",
+        "101100"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "43 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 101011_2 umgerechnet."
+    },
+    {
+      "id": "q0065",
+      "question": "Welche Binaerdarstellung entspricht 56_10?",
+      "options": [
+        "111001",
+        "110111",
+        "111000",
+        "111011"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "56 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 111000_2 umgerechnet."
+    },
+    {
+      "id": "q0066",
+      "question": "Welche Binaerdarstellung entspricht 69_10?",
+      "options": [
+        "10001011",
+        "1000110",
+        "1000101",
+        "1000100"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "69 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1000101_2 umgerechnet."
+    },
+    {
+      "id": "q0067",
+      "question": "Welche Binaerdarstellung entspricht 82_10?",
+      "options": [
+        "1010010",
+        "1010001",
+        "1010011",
+        "10100101"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "82 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1010010_2 umgerechnet."
+    },
+    {
+      "id": "q0068",
+      "question": "Welche Binaerdarstellung entspricht 95_10?",
+      "options": [
+        "1100000",
+        "1011100",
+        "1011110",
+        "1011111"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "95 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1011111_2 umgerechnet."
+    },
+    {
+      "id": "q0069",
+      "question": "Welche Binaerdarstellung entspricht 108_10?",
+      "options": [
+        "1101011",
+        "1101100",
+        "1101101",
+        "1101111"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "108 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1101100_2 umgerechnet."
+    },
+    {
+      "id": "q0070",
+      "question": "Welche Binaerdarstellung entspricht 121_10?",
+      "options": [
+        "1111000",
+        "1111010",
+        "11110011",
+        "1111001"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "121 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1111001_2 umgerechnet."
+    },
+    {
+      "id": "q0071",
+      "question": "Welche Binaerdarstellung entspricht 134_10?",
+      "options": [
+        "100001101",
+        "10000111",
+        "10000110",
+        "10000101"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "134 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10000110_2 umgerechnet."
+    },
+    {
+      "id": "q0072",
+      "question": "Welche Binaerdarstellung entspricht 147_10?",
+      "options": [
+        "10010100",
+        "10010000",
+        "10010010",
+        "10010011"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "147 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10010011_2 umgerechnet."
+    },
+    {
+      "id": "q0073",
+      "question": "Welche Binaerdarstellung entspricht 160_10?",
+      "options": [
+        "10011111",
+        "10100001",
+        "10100011",
+        "10100000"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "160 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10100000_2 umgerechnet."
+    },
+    {
+      "id": "q0074",
+      "question": "Welche Binaerdarstellung entspricht 173_10?",
+      "options": [
+        "101011011",
+        "10101110",
+        "10101100",
+        "10101101"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "173 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10101101_2 umgerechnet."
+    },
+    {
+      "id": "q0075",
+      "question": "Welche Binaerdarstellung entspricht 186_10?",
+      "options": [
+        "10111011",
+        "101110101",
+        "10111010",
+        "10111001"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "186 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 10111010_2 umgerechnet."
+    },
+    {
+      "id": "q0076",
+      "question": "Welche Binaerdarstellung entspricht 199_10?",
+      "options": [
+        "11000110",
+        "11000100",
+        "11000111",
+        "11001000"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "199 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11000111_2 umgerechnet."
+    },
+    {
+      "id": "q0077",
+      "question": "Welche Binaerdarstellung entspricht 212_10?",
+      "options": [
+        "11010111",
+        "11010101",
+        "11010100",
+        "11010011"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "212 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11010100_2 umgerechnet."
+    },
+    {
+      "id": "q0078",
+      "question": "Welche Binaerdarstellung entspricht 225_10?",
+      "options": [
+        "11100001",
+        "11100000",
+        "111000011",
+        "11100010"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "225 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11100001_2 umgerechnet."
+    },
+    {
+      "id": "q0079",
+      "question": "Welche Binaerdarstellung entspricht 238_10?",
+      "options": [
+        "11101110",
+        "11101101",
+        "11101111",
+        "111011101"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "238 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11101110_2 umgerechnet."
+    },
+    {
+      "id": "q0080",
+      "question": "Welche Binaerdarstellung entspricht 11_10?",
+      "options": [
+        "1000",
+        "1010",
+        "1100",
+        "1011"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "11 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 1011_2 umgerechnet."
+    },
+    {
+      "id": "q0081",
+      "question": "Welche Binaerdarstellung entspricht 24_10?",
+      "options": [
+        "11011",
+        "11000",
+        "10111",
+        "11001"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "24 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 11000_2 umgerechnet."
+    },
+    {
+      "id": "q0082",
+      "question": "Welche Binaerdarstellung entspricht 37_10?",
+      "options": [
+        "100100",
+        "1001011",
+        "100110",
+        "100101"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "37 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 100101_2 umgerechnet."
+    },
+    {
+      "id": "q0083",
+      "question": "Welche Binaerdarstellung entspricht 50_10?",
+      "options": [
+        "110011",
+        "1100101",
+        "110001",
+        "110010"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "50 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 110010_2 umgerechnet."
+    },
+    {
+      "id": "q0084",
+      "question": "Welche Binaerdarstellung entspricht 63_10?",
+      "options": [
+        "111110",
+        "1000000",
+        "111111",
+        "111100"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "63 wird durch Zerlegung in Zweierpotenzen bzw. Divisionsmethode in 111111_2 umgerechnet."
+    },
+    {
+      "id": "q0085",
+      "question": "Welcher Dezimalwert entspricht 28_16?",
+      "options": [
+        "130",
+        "40",
+        "24",
+        "56"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "28_16 wird ueber Stellenwerte der Basis 16 in 40_10 umgerechnet."
+    },
+    {
+      "id": "q0086",
+      "question": "Welcher Dezimalwert entspricht 3B_16?",
+      "options": [
+        "75",
+        "43",
+        "59",
+        "179"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "3B_16 wird ueber Stellenwerte der Basis 16 in 59_10 umgerechnet."
+    },
+    {
+      "id": "q0087",
+      "question": "Welcher Dezimalwert entspricht 4E_16?",
+      "options": [
+        "94",
+        "228",
+        "62",
+        "78"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "4E_16 wird ueber Stellenwerte der Basis 16 in 78_10 umgerechnet."
+    },
+    {
+      "id": "q0088",
+      "question": "Welcher Dezimalwert entspricht 61_16?",
+      "options": [
+        "97",
+        "22",
+        "113",
+        "81"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "61_16 wird ueber Stellenwerte der Basis 16 in 97_10 umgerechnet."
+    },
+    {
+      "id": "q0089",
+      "question": "Welcher Dezimalwert entspricht 74_16?",
+      "options": [
+        "100",
+        "116",
+        "71",
+        "132"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "74_16 wird ueber Stellenwerte der Basis 16 in 116_10 umgerechnet."
+    },
+    {
+      "id": "q0090",
+      "question": "Welcher Dezimalwert entspricht 87_16?",
+      "options": [
+        "120",
+        "135",
+        "119",
+        "151"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "87_16 wird ueber Stellenwerte der Basis 16 in 135_10 umgerechnet."
+    },
+    {
+      "id": "q0091",
+      "question": "Welcher Dezimalwert entspricht 9A_16?",
+      "options": [
+        "154",
+        "138",
+        "170",
+        "169"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "9A_16 wird ueber Stellenwerte der Basis 16 in 154_10 umgerechnet."
+    },
+    {
+      "id": "q0092",
+      "question": "Welcher Dezimalwert entspricht AD_16?",
+      "options": [
+        "189",
+        "218",
+        "157",
+        "173"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "AD_16 wird ueber Stellenwerte der Basis 16 in 173_10 umgerechnet."
+    },
+    {
+      "id": "q0093",
+      "question": "Welcher Dezimalwert entspricht C0_16?",
+      "options": [
+        "12",
+        "208",
+        "192",
+        "176"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "C0_16 wird ueber Stellenwerte der Basis 16 in 192_10 umgerechnet."
+    },
+    {
+      "id": "q0094",
+      "question": "Welcher Dezimalwert entspricht D3_16?",
+      "options": [
+        "61",
+        "195",
+        "211",
+        "227"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "D3_16 wird ueber Stellenwerte der Basis 16 in 211_10 umgerechnet."
+    },
+    {
+      "id": "q0095",
+      "question": "Welcher Dezimalwert entspricht E6_16?",
+      "options": [
+        "110",
+        "246",
+        "230",
+        "214"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "E6_16 wird ueber Stellenwerte der Basis 16 in 230_10 umgerechnet."
+    },
+    {
+      "id": "q0096",
+      "question": "Welcher Dezimalwert entspricht F9_16?",
+      "options": [
+        "265",
+        "233",
+        "249",
+        "159"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "F9_16 wird ueber Stellenwerte der Basis 16 in 249_10 umgerechnet."
+    },
+    {
+      "id": "q0097",
+      "question": "Welcher Dezimalwert entspricht 10C_16?",
+      "options": [
+        "3073",
+        "268",
+        "284",
+        "252"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "10C_16 wird ueber Stellenwerte der Basis 16 in 268_10 umgerechnet."
+    },
+    {
+      "id": "q0098",
+      "question": "Welcher Dezimalwert entspricht 11F_16?",
+      "options": [
+        "271",
+        "3857",
+        "287",
+        "303"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "11F_16 wird ueber Stellenwerte der Basis 16 in 287_10 umgerechnet."
+    },
+    {
+      "id": "q0099",
+      "question": "Welcher Dezimalwert entspricht 132_16?",
+      "options": [
+        "322",
+        "561",
+        "306",
+        "290"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "132_16 wird ueber Stellenwerte der Basis 16 in 306_10 umgerechnet."
+    },
+    {
+      "id": "q0100",
+      "question": "Welcher Dezimalwert entspricht 145_16?",
+      "options": [
+        "309",
+        "325",
+        "1345",
+        "341"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "145_16 wird ueber Stellenwerte der Basis 16 in 325_10 umgerechnet."
+    },
+    {
+      "id": "q0101",
+      "question": "Welcher Dezimalwert entspricht 158_16?",
+      "options": [
+        "344",
+        "2129",
+        "360",
+        "328"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "158_16 wird ueber Stellenwerte der Basis 16 in 344_10 umgerechnet."
+    },
+    {
+      "id": "q0102",
+      "question": "Welcher Dezimalwert entspricht 16B_16?",
+      "options": [
+        "2913",
+        "379",
+        "363",
+        "347"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "16B_16 wird ueber Stellenwerte der Basis 16 in 363_10 umgerechnet."
+    },
+    {
+      "id": "q0103",
+      "question": "Welcher Dezimalwert entspricht 17E_16?",
+      "options": [
+        "398",
+        "366",
+        "3697",
+        "382"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "17E_16 wird ueber Stellenwerte der Basis 16 in 382_10 umgerechnet."
+    },
+    {
+      "id": "q0104",
+      "question": "Welcher Dezimalwert entspricht 191_16?",
+      "options": [
+        "401",
+        "417",
+        "385",
+        "403"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "191_16 wird ueber Stellenwerte der Basis 16 in 401_10 umgerechnet."
+    },
+    {
+      "id": "q0105",
+      "question": "Welcher Dezimalwert entspricht 1A4_16?",
+      "options": [
+        "1185",
+        "404",
+        "420",
+        "436"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "1A4_16 wird ueber Stellenwerte der Basis 16 in 420_10 umgerechnet."
+    },
+    {
+      "id": "q0106",
+      "question": "Welcher Dezimalwert entspricht 1B7_16?",
+      "options": [
+        "439",
+        "455",
+        "1969",
+        "423"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "1B7_16 wird ueber Stellenwerte der Basis 16 in 439_10 umgerechnet."
+    },
+    {
+      "id": "q0107",
+      "question": "Welcher Dezimalwert entspricht 1CA_16?",
+      "options": [
+        "442",
+        "474",
+        "2753",
+        "458"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "1CA_16 wird ueber Stellenwerte der Basis 16 in 458_10 umgerechnet."
+    },
+    {
+      "id": "q0108",
+      "question": "Welcher Dezimalwert entspricht 1DD_16?",
+      "options": [
+        "461",
+        "493",
+        "477",
+        "3537"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "1DD_16 wird ueber Stellenwerte der Basis 16 in 477_10 umgerechnet."
+    },
+    {
+      "id": "q0109",
+      "question": "Welcher Dezimalwert entspricht 1F0_16?",
+      "options": [
+        "480",
+        "512",
+        "241",
+        "496"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "1F0_16 wird ueber Stellenwerte der Basis 16 in 496_10 umgerechnet."
+    },
+    {
+      "id": "q0110",
+      "question": "Welcher Dezimalwert entspricht 203_16?",
+      "options": [
+        "770",
+        "531",
+        "515",
+        "499"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "203_16 wird ueber Stellenwerte der Basis 16 in 515_10 umgerechnet."
+    },
+    {
+      "id": "q0111",
+      "question": "Welcher Dezimalwert entspricht 216_16?",
+      "options": [
+        "518",
+        "550",
+        "534",
+        "1554"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "216_16 wird ueber Stellenwerte der Basis 16 in 534_10 umgerechnet."
+    },
+    {
+      "id": "q0112",
+      "question": "Welcher Dezimalwert entspricht 229_16?",
+      "options": [
+        "569",
+        "537",
+        "2338",
+        "553"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "229_16 wird ueber Stellenwerte der Basis 16 in 553_10 umgerechnet."
+    },
+    {
+      "id": "q0113",
+      "question": "Welcher Dezimalwert entspricht 23C_16?",
+      "options": [
+        "588",
+        "556",
+        "572",
+        "3122"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "23C_16 wird ueber Stellenwerte der Basis 16 in 572_10 umgerechnet."
+    },
+    {
+      "id": "q0114",
+      "question": "Welcher Dezimalwert entspricht 24F_16?",
+      "options": [
+        "607",
+        "575",
+        "591",
+        "3906"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "24F_16 wird ueber Stellenwerte der Basis 16 in 591_10 umgerechnet."
+    },
+    {
+      "id": "q0115",
+      "question": "Welcher Dezimalwert entspricht 262_16?",
+      "options": [
+        "594",
+        "610",
+        "626",
+        "612"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "262_16 wird ueber Stellenwerte der Basis 16 in 610_10 umgerechnet."
+    },
+    {
+      "id": "q0116",
+      "question": "Welcher Dezimalwert entspricht 275_16?",
+      "options": [
+        "1394",
+        "629",
+        "613",
+        "645"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "275_16 wird ueber Stellenwerte der Basis 16 in 629_10 umgerechnet."
+    },
+    {
+      "id": "q0117",
+      "question": "Welcher Dezimalwert entspricht 30_16?",
+      "options": [
+        "48",
+        "64",
+        "32",
+        "3"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "30_16 wird ueber Stellenwerte der Basis 16 in 48_10 umgerechnet."
+    },
+    {
+      "id": "q0118",
+      "question": "Welcher Dezimalwert entspricht 43_16?",
+      "options": [
+        "51",
+        "52",
+        "83",
+        "67"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "43_16 wird ueber Stellenwerte der Basis 16 in 67_10 umgerechnet."
+    },
+    {
+      "id": "q0119",
+      "question": "Welche Hexadezimalzahl entspricht 55_10?",
+      "options": [
+        "371",
+        "36",
+        "37",
+        "38"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 37_16."
+    },
+    {
+      "id": "q0120",
+      "question": "Welche Hexadezimalzahl entspricht 72_10?",
+      "options": [
+        "481",
+        "48",
+        "49",
+        "47"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 48_16."
+    },
+    {
+      "id": "q0121",
+      "question": "Welche Hexadezimalzahl entspricht 89_10?",
+      "options": [
+        "58",
+        "56",
+        "5A",
+        "59"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 59_16."
+    },
+    {
+      "id": "q0122",
+      "question": "Welche Hexadezimalzahl entspricht 106_10?",
+      "options": [
+        "6A",
+        "69",
+        "6B",
+        "65"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 6A_16."
+    },
+    {
+      "id": "q0123",
+      "question": "Welche Hexadezimalzahl entspricht 123_10?",
+      "options": [
+        "7B",
+        "7C",
+        "74",
+        "7A"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 7B_16."
+    },
+    {
+      "id": "q0124",
+      "question": "Welche Hexadezimalzahl entspricht 140_10?",
+      "options": [
+        "83",
+        "8C",
+        "8B",
+        "8D"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 8C_16."
+    },
+    {
+      "id": "q0125",
+      "question": "Welche Hexadezimalzahl entspricht 157_10?",
+      "options": [
+        "9C",
+        "9D",
+        "92",
+        "9E"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 9D_16."
+    },
+    {
+      "id": "q0126",
+      "question": "Welche Hexadezimalzahl entspricht 174_10?",
+      "options": [
+        "AD",
+        "AE",
+        "AF",
+        "A1"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: AE_16."
+    },
+    {
+      "id": "q0127",
+      "question": "Welche Hexadezimalzahl entspricht 191_10?",
+      "options": [
+        "B0",
+        "C0",
+        "BE",
+        "BF"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: BF_16."
+    },
+    {
+      "id": "q0128",
+      "question": "Welche Hexadezimalzahl entspricht 208_10?",
+      "options": [
+        "DF",
+        "D1",
+        "D0",
+        "CF"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: D0_16."
+    },
+    {
+      "id": "q0129",
+      "question": "Welche Hexadezimalzahl entspricht 225_10?",
+      "options": [
+        "E1",
+        "E0",
+        "EE",
+        "E2"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: E1_16."
+    },
+    {
+      "id": "q0130",
+      "question": "Welche Hexadezimalzahl entspricht 242_10?",
+      "options": [
+        "F1",
+        "F3",
+        "FD",
+        "F2"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: F2_16."
+    },
+    {
+      "id": "q0131",
+      "question": "Welche Hexadezimalzahl entspricht 259_10?",
+      "options": [
+        "104",
+        "103",
+        "102",
+        "10C"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 103_16."
+    },
+    {
+      "id": "q0132",
+      "question": "Welche Hexadezimalzahl entspricht 276_10?",
+      "options": [
+        "114",
+        "113",
+        "11B",
+        "115"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 114_16."
+    },
+    {
+      "id": "q0133",
+      "question": "Welche Hexadezimalzahl entspricht 293_10?",
+      "options": [
+        "126",
+        "12A",
+        "125",
+        "124"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 125_16."
+    },
+    {
+      "id": "q0134",
+      "question": "Welche Hexadezimalzahl entspricht 310_10?",
+      "options": [
+        "136",
+        "135",
+        "139",
+        "137"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 136_16."
+    },
+    {
+      "id": "q0135",
+      "question": "Welche Hexadezimalzahl entspricht 327_10?",
+      "options": [
+        "148",
+        "146",
+        "1471",
+        "147"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 147_16."
+    },
+    {
+      "id": "q0136",
+      "question": "Welche Hexadezimalzahl entspricht 344_10?",
+      "options": [
+        "157",
+        "158",
+        "1581",
+        "159"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 158_16."
+    },
+    {
+      "id": "q0137",
+      "question": "Welche Hexadezimalzahl entspricht 361_10?",
+      "options": [
+        "16A",
+        "168",
+        "166",
+        "169"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 169_16."
+    },
+    {
+      "id": "q0138",
+      "question": "Welche Hexadezimalzahl entspricht 378_10?",
+      "options": [
+        "17A",
+        "179",
+        "17B",
+        "175"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 17A_16."
+    },
+    {
+      "id": "q0139",
+      "question": "Welche Hexadezimalzahl entspricht 395_10?",
+      "options": [
+        "18A",
+        "184",
+        "18B",
+        "18C"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 18B_16."
+    },
+    {
+      "id": "q0140",
+      "question": "Welche Hexadezimalzahl entspricht 412_10?",
+      "options": [
+        "193",
+        "19C",
+        "19D",
+        "19B"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 19C_16."
+    },
+    {
+      "id": "q0141",
+      "question": "Welche Hexadezimalzahl entspricht 429_10?",
+      "options": [
+        "1AC",
+        "1A2",
+        "1AD",
+        "1AE"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 1AD_16."
+    },
+    {
+      "id": "q0142",
+      "question": "Welche Hexadezimalzahl entspricht 446_10?",
+      "options": [
+        "1BE",
+        "1BD",
+        "1BF",
+        "1B1"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 1BE_16."
+    },
+    {
+      "id": "q0143",
+      "question": "Welche Hexadezimalzahl entspricht 463_10?",
+      "options": [
+        "1C0",
+        "1CF",
+        "1D0",
+        "1CE"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 1CF_16."
+    },
+    {
+      "id": "q0144",
+      "question": "Welche Hexadezimalzahl entspricht 480_10?",
+      "options": [
+        "1EF",
+        "1E1",
+        "1E0",
+        "1DF"
+      ],
+      "correct": 2,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 1E0_16."
+    },
+    {
+      "id": "q0145",
+      "question": "Welche Hexadezimalzahl entspricht 497_10?",
+      "options": [
+        "1F1",
+        "1F0",
+        "1F2",
+        "1FE"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 1F1_16."
+    },
+    {
+      "id": "q0146",
+      "question": "Welche Hexadezimalzahl entspricht 514_10?",
+      "options": [
+        "203",
+        "201",
+        "20D",
+        "202"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 202_16."
+    },
+    {
+      "id": "q0147",
+      "question": "Welche Hexadezimalzahl entspricht 531_10?",
+      "options": [
+        "213",
+        "21C",
+        "214",
+        "212"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 213_16."
+    },
+    {
+      "id": "q0148",
+      "question": "Welche Hexadezimalzahl entspricht 548_10?",
+      "options": [
+        "22B",
+        "224",
+        "225",
+        "223"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 224_16."
+    },
+    {
+      "id": "q0149",
+      "question": "Welche Hexadezimalzahl entspricht 565_10?",
+      "options": [
+        "236",
+        "234",
+        "23A",
+        "235"
+      ],
+      "correct": 3,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 235_16."
+    },
+    {
+      "id": "q0150",
+      "question": "Welche Hexadezimalzahl entspricht 582_10?",
+      "options": [
+        "246",
+        "247",
+        "245",
+        "249"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 246_16."
+    },
+    {
+      "id": "q0151",
+      "question": "Welche Hexadezimalzahl entspricht 599_10?",
+      "options": [
+        "256",
+        "257",
+        "258",
+        "2571"
+      ],
+      "correct": 1,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 257_16."
+    },
+    {
+      "id": "q0152",
+      "question": "Welche Hexadezimalzahl entspricht 616_10?",
+      "options": [
+        "268",
+        "2681",
+        "269",
+        "267"
+      ],
+      "correct": 0,
+      "category": "Umrechnung Zahlensysteme",
+      "explanation": "Dezimal nach Hex erfolgt durch Division durch 16 bzw. Potenzzerlegung. Ergebnis: 268_16."
+    },
+    {
+      "id": "q0153",
+      "question": "Welche Hexadezimalzahl entspricht 00010110_2?",
+      "options": [
+        "1C",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0154",
+      "question": "Welche Hexadezimalzahl entspricht 00110011_2?",
+      "options": [
+        "32",
+        "33",
+        "39",
+        "34"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0155",
+      "question": "Welche Hexadezimalzahl entspricht 01010000_2?",
+      "options": [
+        "5A",
+        "4F",
+        "50",
+        "51"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0156",
+      "question": "Welche Hexadezimalzahl entspricht 01101101_2?",
+      "options": [
+        "67",
+        "6D",
+        "6C",
+        "6E"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0157",
+      "question": "Welche Hexadezimalzahl entspricht 10001010_2?",
+      "options": [
+        "89",
+        "8A",
+        "8B",
+        "80"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0158",
+      "question": "Welche Hexadezimalzahl entspricht 10100111_2?",
+      "options": [
+        "A7",
+        "AD",
+        "A6",
+        "A8"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0159",
+      "question": "Welche Hexadezimalzahl entspricht 11000100_2?",
+      "options": [
+        "C5",
+        "C4",
+        "CE",
+        "C3"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0160",
+      "question": "Welche Hexadezimalzahl entspricht 11100001_2?",
+      "options": [
+        "E2",
+        "E0",
+        "EB",
+        "E1"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0161",
+      "question": "Welche Hexadezimalzahl entspricht 11111110_2?",
+      "options": [
+        "F4",
+        "FD",
+        "FF",
+        "FE"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0162",
+      "question": "Welche Hexadezimalzahl entspricht 000100011011_2?",
+      "options": [
+        "11B",
+        "111",
+        "11C",
+        "11A"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0163",
+      "question": "Welche Hexadezimalzahl entspricht 000100111000_2?",
+      "options": [
+        "139",
+        "132",
+        "137",
+        "138"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0164",
+      "question": "Welche Hexadezimalzahl entspricht 000101010101_2?",
+      "options": [
+        "154",
+        "156",
+        "155",
+        "15F"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0165",
+      "question": "Welche Hexadezimalzahl entspricht 000101110010_2?",
+      "options": [
+        "171",
+        "173",
+        "172",
+        "178"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0166",
+      "question": "Welche Hexadezimalzahl entspricht 000110001111_2?",
+      "options": [
+        "18F",
+        "185",
+        "18E",
+        "190"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0167",
+      "question": "Welche Hexadezimalzahl entspricht 000110101100_2?",
+      "options": [
+        "1AC",
+        "1AD",
+        "1AB",
+        "1A6"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0168",
+      "question": "Welche Hexadezimalzahl entspricht 000111001001_2?",
+      "options": [
+        "1CA",
+        "1C3",
+        "1C9",
+        "1C8"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0169",
+      "question": "Welche Hexadezimalzahl entspricht 000111100110_2?",
+      "options": [
+        "1E7",
+        "1E5",
+        "1E6",
+        "1EC"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0170",
+      "question": "Welche Hexadezimalzahl entspricht 001000000011_2?",
+      "options": [
+        "209",
+        "202",
+        "204",
+        "203"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0171",
+      "question": "Welche Hexadezimalzahl entspricht 001000100000_2?",
+      "options": [
+        "22A",
+        "221",
+        "21F",
+        "220"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0172",
+      "question": "Welche Hexadezimalzahl entspricht 001000111101_2?",
+      "options": [
+        "23D",
+        "23E",
+        "237",
+        "23C"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0173",
+      "question": "Welche Hexadezimalzahl entspricht 001001011010_2?",
+      "options": [
+        "259",
+        "25A",
+        "250",
+        "25B"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0174",
+      "question": "Welche Hexadezimalzahl entspricht 001001110111_2?",
+      "options": [
+        "277",
+        "27D",
+        "278",
+        "276"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0175",
+      "question": "Welche Hexadezimalzahl entspricht 001010010100_2?",
+      "options": [
+        "29E",
+        "295",
+        "293",
+        "294"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0176",
+      "question": "Welche Hexadezimalzahl entspricht 001010110001_2?",
+      "options": [
+        "2BB",
+        "2B1",
+        "2B2",
+        "2B0"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0177",
+      "question": "Welche Hexadezimalzahl entspricht 001011001110_2?",
+      "options": [
+        "2CE",
+        "2CD",
+        "2C4",
+        "2CF"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0178",
+      "question": "Welche Hexadezimalzahl entspricht 001011101011_2?",
+      "options": [
+        "2EA",
+        "2EB",
+        "2E1",
+        "2EC"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0179",
+      "question": "Welche Hexadezimalzahl entspricht 001100001000_2?",
+      "options": [
+        "307",
+        "309",
+        "302",
+        "308"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0180",
+      "question": "Welche Hexadezimalzahl entspricht 001100100101_2?",
+      "options": [
+        "326",
+        "325",
+        "32F",
+        "324"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0181",
+      "question": "Welche Hexadezimalzahl entspricht 001101000010_2?",
+      "options": [
+        "341",
+        "348",
+        "342",
+        "343"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0182",
+      "question": "Welche Hexadezimalzahl entspricht 001101011111_2?",
+      "options": [
+        "35E",
+        "355",
+        "360",
+        "35F"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Binaer wird in 4-Bit Gruppen geteilt. Jede Gruppe entspricht einer Hex-Ziffer."
+    },
+    {
+      "id": "q0183",
+      "question": "Welche Binaerdarstellung entspricht 1F_16?",
+      "options": [
+        "00010000",
+        "00011110",
+        "00100000",
+        "00011111"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 00011111_2."
+    },
+    {
+      "id": "q0184",
+      "question": "Welche Binaerdarstellung entspricht 3E_16?",
+      "options": [
+        "00111111",
+        "00111110",
+        "00110001",
+        "00111101"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 00111110_2."
+    },
+    {
+      "id": "q0185",
+      "question": "Welche Binaerdarstellung entspricht 5D_16?",
+      "options": [
+        "01011110",
+        "01011100",
+        "01010010",
+        "01011101"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 01011101_2."
+    },
+    {
+      "id": "q0186",
+      "question": "Welche Binaerdarstellung entspricht 7C_16?",
+      "options": [
+        "01111100",
+        "01111011",
+        "01110011",
+        "01111101"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 01111100_2."
+    },
+    {
+      "id": "q0187",
+      "question": "Welche Binaerdarstellung entspricht 9B_16?",
+      "options": [
+        "10011011",
+        "10011100",
+        "10011010",
+        "10010100"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 10011011_2."
+    },
+    {
+      "id": "q0188",
+      "question": "Welche Binaerdarstellung entspricht BA_16?",
+      "options": [
+        "10111011",
+        "10111001",
+        "10110101",
+        "10111010"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 10111010_2."
+    },
+    {
+      "id": "q0189",
+      "question": "Welche Binaerdarstellung entspricht D9_16?",
+      "options": [
+        "11011000",
+        "11010110",
+        "11011010",
+        "11011001"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 11011001_2."
+    },
+    {
+      "id": "q0190",
+      "question": "Welche Binaerdarstellung entspricht F8_16?",
+      "options": [
+        "11110111",
+        "111110001",
+        "11111000",
+        "11111001"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 11111000_2."
+    },
+    {
+      "id": "q0191",
+      "question": "Welche Binaerdarstellung entspricht 117_16?",
+      "options": [
+        "000100011000",
+        "000100010111",
+        "000100010110",
+        "0001000101111"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000100010111_2."
+    },
+    {
+      "id": "q0192",
+      "question": "Welche Binaerdarstellung entspricht 136_16?",
+      "options": [
+        "000100110110",
+        "000100111001",
+        "000100110111",
+        "000100110101"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000100110110_2."
+    },
+    {
+      "id": "q0193",
+      "question": "Welche Binaerdarstellung entspricht 155_16?",
+      "options": [
+        "000101010110",
+        "000101011010",
+        "000101010101",
+        "000101010100"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000101010101_2."
+    },
+    {
+      "id": "q0194",
+      "question": "Welche Binaerdarstellung entspricht 174_16?",
+      "options": [
+        "000101111011",
+        "000101110101",
+        "000101110100",
+        "000101110011"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000101110100_2."
+    },
+    {
+      "id": "q0195",
+      "question": "Welche Binaerdarstellung entspricht 193_16?",
+      "options": [
+        "000110010100",
+        "000110010010",
+        "000110010011",
+        "000110011100"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000110010011_2."
+    },
+    {
+      "id": "q0196",
+      "question": "Welche Binaerdarstellung entspricht 1B2_16?",
+      "options": [
+        "000110110001",
+        "000110110011",
+        "000110110010",
+        "000110111101"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000110110010_2."
+    },
+    {
+      "id": "q0197",
+      "question": "Welche Binaerdarstellung entspricht 1D1_16?",
+      "options": [
+        "000111011110",
+        "000111010001",
+        "000111010010",
+        "000111010000"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000111010001_2."
+    },
+    {
+      "id": "q0198",
+      "question": "Welche Binaerdarstellung entspricht 1F0_16?",
+      "options": [
+        "000111110001",
+        "000111110000",
+        "000111101111",
+        "000111111111"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 000111110000_2."
+    },
+    {
+      "id": "q0199",
+      "question": "Welche Binaerdarstellung entspricht 20F_16?",
+      "options": [
+        "001000001111",
+        "001000001110",
+        "001000000000",
+        "001000010000"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001000001111_2."
+    },
+    {
+      "id": "q0200",
+      "question": "Welche Binaerdarstellung entspricht 22E_16?",
+      "options": [
+        "001000101111",
+        "001000101101",
+        "001000101110",
+        "001000100001"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001000101110_2."
+    },
+    {
+      "id": "q0201",
+      "question": "Welche Binaerdarstellung entspricht 24D_16?",
+      "options": [
+        "001001000010",
+        "001001001100",
+        "001001001101",
+        "001001001110"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001001001101_2."
+    },
+    {
+      "id": "q0202",
+      "question": "Welche Binaerdarstellung entspricht 26C_16?",
+      "options": [
+        "001001101101",
+        "001001101100",
+        "001001100011",
+        "001001101011"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001001101100_2."
+    },
+    {
+      "id": "q0203",
+      "question": "Welche Binaerdarstellung entspricht 28B_16?",
+      "options": [
+        "001010001100",
+        "001010001010",
+        "001010001011",
+        "001010000100"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001010001011_2."
+    },
+    {
+      "id": "q0204",
+      "question": "Welche Binaerdarstellung entspricht 2AA_16?",
+      "options": [
+        "001010101001",
+        "001010101011",
+        "001010100101",
+        "001010101010"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001010101010_2."
+    },
+    {
+      "id": "q0205",
+      "question": "Welche Binaerdarstellung entspricht 2C9_16?",
+      "options": [
+        "001011001000",
+        "001011000110",
+        "001011001001",
+        "001011001010"
+      ],
+      "correct": 2,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001011001001_2."
+    },
+    {
+      "id": "q0206",
+      "question": "Welche Binaerdarstellung entspricht 2E8_16?",
+      "options": [
+        "001011101000",
+        "001011100111",
+        "0010111010001",
+        "001011101001"
+      ],
+      "correct": 0,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001011101000_2."
+    },
+    {
+      "id": "q0207",
+      "question": "Welche Binaerdarstellung entspricht 307_16?",
+      "options": [
+        "001100001000",
+        "001100000111",
+        "0011000001111",
+        "001100000110"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001100000111_2."
+    },
+    {
+      "id": "q0208",
+      "question": "Welche Binaerdarstellung entspricht 326_16?",
+      "options": [
+        "001100100111",
+        "001100100101",
+        "001100101001",
+        "001100100110"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001100100110_2."
+    },
+    {
+      "id": "q0209",
+      "question": "Welche Binaerdarstellung entspricht 345_16?",
+      "options": [
+        "001101000110",
+        "001101000100",
+        "001101001010",
+        "001101000101"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001101000101_2."
+    },
+    {
+      "id": "q0210",
+      "question": "Welche Binaerdarstellung entspricht 364_16?",
+      "options": [
+        "001101100101",
+        "001101100100",
+        "001101100011",
+        "001101101011"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001101100100_2."
+    },
+    {
+      "id": "q0211",
+      "question": "Welche Binaerdarstellung entspricht 383_16?",
+      "options": [
+        "001110001100",
+        "001110000010",
+        "001110000100",
+        "001110000011"
+      ],
+      "correct": 3,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001110000011_2."
+    },
+    {
+      "id": "q0212",
+      "question": "Welche Binaerdarstellung entspricht 3A2_16?",
+      "options": [
+        "001110100011",
+        "001110100010",
+        "001110101101",
+        "001110100001"
+      ],
+      "correct": 1,
+      "category": "Dual und Hex",
+      "explanation": "Jede Hex-Ziffer entspricht genau 4 Bit. Dadurch ergibt sich direkt 001110100010_2."
+    },
+    {
+      "id": "q0213",
+      "question": "Welche Subnetzmaske gehoert zu /8?",
+      "options": [
+        "255.0.0.0",
+        "255.128.0.0",
+        "255.192.0.0",
+        "255.0.0.01"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/8 bedeutet 8 Netz-Bits. Die passende dotted-decimal Maske ist 255.0.0.0."
+    },
+    {
+      "id": "q0214",
+      "question": "Welche Subnetzmaske gehoert zu /9?",
+      "options": [
+        "255.0.0.0",
+        "255.128.0.0",
+        "255.224.0.0",
+        "255.192.0.0"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/9 bedeutet 9 Netz-Bits. Die passende dotted-decimal Maske ist 255.128.0.0."
+    },
+    {
+      "id": "q0215",
+      "question": "Welche Subnetzmaske gehoert zu /10?",
+      "options": [
+        "255.128.0.0",
+        "255.224.0.0",
+        "255.192.0.0",
+        "255.240.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/10 bedeutet 10 Netz-Bits. Die passende dotted-decimal Maske ist 255.192.0.0."
+    },
+    {
+      "id": "q0216",
+      "question": "Welche Subnetzmaske gehoert zu /11?",
+      "options": [
+        "255.248.0.0",
+        "255.192.0.0",
+        "255.224.0.0",
+        "255.240.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/11 bedeutet 11 Netz-Bits. Die passende dotted-decimal Maske ist 255.224.0.0."
+    },
+    {
+      "id": "q0217",
+      "question": "Welche Subnetzmaske gehoert zu /12?",
+      "options": [
+        "255.224.0.0",
+        "255.240.0.0",
+        "255.252.0.0",
+        "255.248.0.0"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/12 bedeutet 12 Netz-Bits. Die passende dotted-decimal Maske ist 255.240.0.0."
+    },
+    {
+      "id": "q0218",
+      "question": "Welche Subnetzmaske gehoert zu /13?",
+      "options": [
+        "255.254.0.0",
+        "255.240.0.0",
+        "255.248.0.0",
+        "255.252.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/13 bedeutet 13 Netz-Bits. Die passende dotted-decimal Maske ist 255.248.0.0."
+    },
+    {
+      "id": "q0219",
+      "question": "Welche Subnetzmaske gehoert zu /14?",
+      "options": [
+        "255.248.0.0",
+        "255.254.0.0",
+        "255.255.0.0",
+        "255.252.0.0"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/14 bedeutet 14 Netz-Bits. Die passende dotted-decimal Maske ist 255.252.0.0."
+    },
+    {
+      "id": "q0220",
+      "question": "Welche Subnetzmaske gehoert zu /15?",
+      "options": [
+        "255.254.0.0",
+        "255.255.0.0",
+        "255.252.0.0",
+        "255.255.128.0"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/15 bedeutet 15 Netz-Bits. Die passende dotted-decimal Maske ist 255.254.0.0."
+    },
+    {
+      "id": "q0221",
+      "question": "Welche Subnetzmaske gehoert zu /16?",
+      "options": [
+        "255.254.0.0",
+        "255.255.0.0",
+        "255.255.128.0",
+        "255.255.192.0"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/16 bedeutet 16 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.0.0."
+    },
+    {
+      "id": "q0222",
+      "question": "Welche Subnetzmaske gehoert zu /17?",
+      "options": [
+        "255.255.224.0",
+        "255.255.0.0",
+        "255.255.128.0",
+        "255.255.192.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/17 bedeutet 17 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.128.0."
+    },
+    {
+      "id": "q0223",
+      "question": "Welche Subnetzmaske gehoert zu /18?",
+      "options": [
+        "255.255.192.0",
+        "255.255.224.0",
+        "255.255.128.0",
+        "255.255.240.0"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/18 bedeutet 18 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.192.0."
+    },
+    {
+      "id": "q0224",
+      "question": "Welche Subnetzmaske gehoert zu /19?",
+      "options": [
+        "255.255.192.0",
+        "255.255.240.0",
+        "255.255.224.0",
+        "255.255.248.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/19 bedeutet 19 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.224.0."
+    },
+    {
+      "id": "q0225",
+      "question": "Welche Subnetzmaske gehoert zu /20?",
+      "options": [
+        "255.255.224.0",
+        "255.255.252.0",
+        "255.255.240.0",
+        "255.255.248.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/20 bedeutet 20 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.240.0."
+    },
+    {
+      "id": "q0226",
+      "question": "Welche Subnetzmaske gehoert zu /21?",
+      "options": [
+        "255.255.240.0",
+        "255.255.254.0",
+        "255.255.248.0",
+        "255.255.252.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/21 bedeutet 21 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.248.0."
+    },
+    {
+      "id": "q0227",
+      "question": "Welche Subnetzmaske gehoert zu /22?",
+      "options": [
+        "255.255.254.0",
+        "255.255.252.0",
+        "255.255.248.0",
+        "255.255.255.0"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/22 bedeutet 22 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.252.0."
+    },
+    {
+      "id": "q0228",
+      "question": "Welche Subnetzmaske gehoert zu /23?",
+      "options": [
+        "255.255.255.0",
+        "255.255.255.128",
+        "255.255.254.0",
+        "255.255.252.0"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/23 bedeutet 23 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.254.0."
+    },
+    {
+      "id": "q0229",
+      "question": "Welche Subnetzmaske gehoert zu /24?",
+      "options": [
+        "255.255.254.0",
+        "255.255.255.128",
+        "255.255.255.0",
+        "255.255.255.192"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/24 bedeutet 24 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.0."
+    },
+    {
+      "id": "q0230",
+      "question": "Welche Subnetzmaske gehoert zu /25?",
+      "options": [
+        "255.255.255.0",
+        "255.255.255.192",
+        "255.255.255.224",
+        "255.255.255.128"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/25 bedeutet 25 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.128."
+    },
+    {
+      "id": "q0231",
+      "question": "Welche Subnetzmaske gehoert zu /26?",
+      "options": [
+        "255.255.255.128",
+        "255.255.255.192",
+        "255.255.255.240",
+        "255.255.255.224"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/26 bedeutet 26 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.192."
+    },
+    {
+      "id": "q0232",
+      "question": "Welche Subnetzmaske gehoert zu /27?",
+      "options": [
+        "255.255.255.240",
+        "255.255.255.224",
+        "255.255.255.248",
+        "255.255.255.192"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/27 bedeutet 27 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.224."
+    },
+    {
+      "id": "q0233",
+      "question": "Welche Subnetzmaske gehoert zu /28?",
+      "options": [
+        "255.255.255.224",
+        "255.255.255.248",
+        "255.255.255.240",
+        "255.255.255.252"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/28 bedeutet 28 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.240."
+    },
+    {
+      "id": "q0234",
+      "question": "Welche Subnetzmaske gehoert zu /29?",
+      "options": [
+        "255.255.255.252",
+        "255.255.255.2481",
+        "255.255.255.248",
+        "255.255.255.240"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/29 bedeutet 29 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.248."
+    },
+    {
+      "id": "q0235",
+      "question": "Welche Subnetzmaske gehoert zu /30?",
+      "options": [
+        "255.255.255.248",
+        "255.255.255.2521",
+        "255.255.255.252",
+        "255.255.255.2522"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/30 bedeutet 30 Netz-Bits. Die passende dotted-decimal Maske ist 255.255.255.252."
+    },
+    {
+      "id": "q0236",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.0.0.0?",
+      "options": [
+        "/8",
+        "/81",
+        "/10",
+        "/9"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.0.0.0 ergibt /8."
+    },
+    {
+      "id": "q0237",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.128.0.0?",
+      "options": [
+        "/9",
+        "/8",
+        "/10",
+        "/11"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.128.0.0 ergibt /9."
+    },
+    {
+      "id": "q0238",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.192.0.0?",
+      "options": [
+        "/9",
+        "/12",
+        "/11",
+        "/10"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.192.0.0 ergibt /10."
+    },
+    {
+      "id": "q0239",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.224.0.0?",
+      "options": [
+        "/13",
+        "/12",
+        "/10",
+        "/11"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.224.0.0 ergibt /11."
+    },
+    {
+      "id": "q0240",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.240.0.0?",
+      "options": [
+        "/13",
+        "/12",
+        "/11",
+        "/14"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.240.0.0 ergibt /12."
+    },
+    {
+      "id": "q0241",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.248.0.0?",
+      "options": [
+        "/15",
+        "/13",
+        "/12",
+        "/14"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.248.0.0 ergibt /13."
+    },
+    {
+      "id": "q0242",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.252.0.0?",
+      "options": [
+        "/15",
+        "/16",
+        "/13",
+        "/14"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.252.0.0 ergibt /14."
+    },
+    {
+      "id": "q0243",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.254.0.0?",
+      "options": [
+        "/14",
+        "/17",
+        "/15",
+        "/16"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.254.0.0 ergibt /15."
+    },
+    {
+      "id": "q0244",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.0.0?",
+      "options": [
+        "/18",
+        "/15",
+        "/17",
+        "/16"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.0.0 ergibt /16."
+    },
+    {
+      "id": "q0245",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.128.0?",
+      "options": [
+        "/16",
+        "/17",
+        "/19",
+        "/18"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.128.0 ergibt /17."
+    },
+    {
+      "id": "q0246",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.192.0?",
+      "options": [
+        "/19",
+        "/17",
+        "/20",
+        "/18"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.192.0 ergibt /18."
+    },
+    {
+      "id": "q0247",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.224.0?",
+      "options": [
+        "/20",
+        "/19",
+        "/21",
+        "/18"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.224.0 ergibt /19."
+    },
+    {
+      "id": "q0248",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.240.0?",
+      "options": [
+        "/21",
+        "/19",
+        "/22",
+        "/20"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.240.0 ergibt /20."
+    },
+    {
+      "id": "q0249",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.248.0?",
+      "options": [
+        "/23",
+        "/20",
+        "/21",
+        "/22"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.248.0 ergibt /21."
+    },
+    {
+      "id": "q0250",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.252.0?",
+      "options": [
+        "/22",
+        "/23",
+        "/24",
+        "/21"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.252.0 ergibt /22."
+    },
+    {
+      "id": "q0251",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.254.0?",
+      "options": [
+        "/25",
+        "/24",
+        "/22",
+        "/23"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.254.0 ergibt /23."
+    },
+    {
+      "id": "q0252",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.0?",
+      "options": [
+        "/23",
+        "/26",
+        "/24",
+        "/25"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.0 ergibt /24."
+    },
+    {
+      "id": "q0253",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.128?",
+      "options": [
+        "/26",
+        "/25",
+        "/27",
+        "/24"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.128 ergibt /25."
+    },
+    {
+      "id": "q0254",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.192?",
+      "options": [
+        "/26",
+        "/25",
+        "/27",
+        "/28"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.192 ergibt /26."
+    },
+    {
+      "id": "q0255",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.224?",
+      "options": [
+        "/26",
+        "/27",
+        "/28",
+        "/29"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.224 ergibt /27."
+    },
+    {
+      "id": "q0256",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.240?",
+      "options": [
+        "/29",
+        "/27",
+        "/30",
+        "/28"
+      ],
+      "correct": 3,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.240 ergibt /28."
+    },
+    {
+      "id": "q0257",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.248?",
+      "options": [
+        "/29",
+        "/30",
+        "/291",
+        "/28"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.248 ergibt /29."
+    },
+    {
+      "id": "q0258",
+      "question": "Welches CIDR-Praefix entspricht der Subnetzmaske 255.255.255.252?",
+      "options": [
+        "/301",
+        "/29",
+        "/30",
+        "/302"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "Die Anzahl zusammenhaengender 1-Bits in 255.255.255.252 ergibt /30."
+    },
+    {
+      "id": "q0259",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /8?",
+      "options": [
+        "16777216",
+        "16777214",
+        "16777212",
+        "16777217"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 24. Klassisch nutzbare Hosts: 2^h - 2 = 16777214."
+    },
+    {
+      "id": "q0260",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /9?",
+      "options": [
+        "8388604",
+        "8388606",
+        "8388609",
+        "8388608"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 23. Klassisch nutzbare Hosts: 2^h - 2 = 8388606."
+    },
+    {
+      "id": "q0261",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /10?",
+      "options": [
+        "4194302",
+        "4194304",
+        "4194300",
+        "4194305"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 22. Klassisch nutzbare Hosts: 2^h - 2 = 4194302."
+    },
+    {
+      "id": "q0262",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /11?",
+      "options": [
+        "2097152",
+        "2097150",
+        "2097148",
+        "2097153"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 21. Klassisch nutzbare Hosts: 2^h - 2 = 2097150."
+    },
+    {
+      "id": "q0263",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /12?",
+      "options": [
+        "1048576",
+        "1048577",
+        "1048574",
+        "1048572"
+      ],
+      "correct": 2,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 20. Klassisch nutzbare Hosts: 2^h - 2 = 1048574."
+    },
+    {
+      "id": "q0264",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /13?",
+      "options": [
+        "524288",
+        "524284",
+        "524286",
+        "524289"
+      ],
+      "correct": 2,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 19. Klassisch nutzbare Hosts: 2^h - 2 = 524286."
+    },
+    {
+      "id": "q0265",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /14?",
+      "options": [
+        "262144",
+        "262142",
+        "262145",
+        "262140"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 18. Klassisch nutzbare Hosts: 2^h - 2 = 262142."
+    },
+    {
+      "id": "q0266",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /15?",
+      "options": [
+        "131070",
+        "131072",
+        "131073",
+        "131068"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 17. Klassisch nutzbare Hosts: 2^h - 2 = 131070."
+    },
+    {
+      "id": "q0267",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /16?",
+      "options": [
+        "65534",
+        "65536",
+        "65537",
+        "65532"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 16. Klassisch nutzbare Hosts: 2^h - 2 = 65534."
+    },
+    {
+      "id": "q0268",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /17?",
+      "options": [
+        "32769",
+        "32768",
+        "32766",
+        "32764"
+      ],
+      "correct": 2,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 15. Klassisch nutzbare Hosts: 2^h - 2 = 32766."
+    },
+    {
+      "id": "q0269",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /18?",
+      "options": [
+        "16382",
+        "16385",
+        "16380",
+        "16384"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 14. Klassisch nutzbare Hosts: 2^h - 2 = 16382."
+    },
+    {
+      "id": "q0270",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /19?",
+      "options": [
+        "8188",
+        "8190",
+        "8193",
+        "8192"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 13. Klassisch nutzbare Hosts: 2^h - 2 = 8190."
+    },
+    {
+      "id": "q0271",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /20?",
+      "options": [
+        "4094",
+        "4097",
+        "4092",
+        "4096"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 12. Klassisch nutzbare Hosts: 2^h - 2 = 4094."
+    },
+    {
+      "id": "q0272",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /21?",
+      "options": [
+        "2046",
+        "2044",
+        "2049",
+        "2048"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 11. Klassisch nutzbare Hosts: 2^h - 2 = 2046."
+    },
+    {
+      "id": "q0273",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /22?",
+      "options": [
+        "1020",
+        "1022",
+        "1024",
+        "1025"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 10. Klassisch nutzbare Hosts: 2^h - 2 = 1022."
+    },
+    {
+      "id": "q0274",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /23?",
+      "options": [
+        "508",
+        "513",
+        "512",
+        "510"
+      ],
+      "correct": 3,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 9. Klassisch nutzbare Hosts: 2^h - 2 = 510."
+    },
+    {
+      "id": "q0275",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /24?",
+      "options": [
+        "257",
+        "254",
+        "256",
+        "252"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 8. Klassisch nutzbare Hosts: 2^h - 2 = 254."
+    },
+    {
+      "id": "q0276",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /25?",
+      "options": [
+        "129",
+        "126",
+        "124",
+        "128"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 7. Klassisch nutzbare Hosts: 2^h - 2 = 126."
+    },
+    {
+      "id": "q0277",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /26?",
+      "options": [
+        "62",
+        "64",
+        "60",
+        "65"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 6. Klassisch nutzbare Hosts: 2^h - 2 = 62."
+    },
+    {
+      "id": "q0278",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /27?",
+      "options": [
+        "30",
+        "32",
+        "28",
+        "33"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 5. Klassisch nutzbare Hosts: 2^h - 2 = 30."
+    },
+    {
+      "id": "q0279",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /28?",
+      "options": [
+        "16",
+        "17",
+        "14",
+        "12"
+      ],
+      "correct": 2,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 4. Klassisch nutzbare Hosts: 2^h - 2 = 14."
+    },
+    {
+      "id": "q0280",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /29?",
+      "options": [
+        "8",
+        "9",
+        "4",
+        "6"
+      ],
+      "correct": 3,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 3. Klassisch nutzbare Hosts: 2^h - 2 = 6."
+    },
+    {
+      "id": "q0281",
+      "question": "Wie viele nutzbare Hosts hat ein klassisches IPv4-Netz mit /30?",
+      "options": [
+        "2",
+        "0",
+        "5",
+        "4"
+      ],
+      "correct": 0,
+      "category": "Hostberechnung",
+      "explanation": "Host-Bits: 2. Klassisch nutzbare Hosts: 2^h - 2 = 2."
+    },
+    {
+      "id": "q0282",
+      "question": "Welche Netzadresse gehoert zu 10.0.11.17/16?",
+      "options": [
+        "9.255.255.255",
+        "10.0.0.0",
+        "10.1.0.0",
+        "10.0.255.255"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.0.0). Ergebnis: 10.0.0.0."
+    },
+    {
+      "id": "q0283",
+      "question": "Welche Netzadresse gehoert zu 172.19.34.40/17?",
+      "options": [
+        "172.19.0.0",
+        "172.19.127.255",
+        "172.18.255.255",
+        "172.19.128.0"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.128.0). Ergebnis: 172.19.0.0."
+    },
+    {
+      "id": "q0284",
+      "question": "Welche Netzadresse gehoert zu 192.168.35.55/18?",
+      "options": [
+        "192.167.255.255",
+        "192.168.0.0",
+        "192.168.63.255",
+        "192.168.64.0"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.192.0). Ergebnis: 192.168.0.0."
+    },
+    {
+      "id": "q0285",
+      "question": "Welche Netzadresse gehoert zu 10.21.68.86/19?",
+      "options": [
+        "10.21.96.0",
+        "10.21.63.255",
+        "10.21.64.0",
+        "10.21.95.255"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.224.0). Ergebnis: 10.21.64.0."
+    },
+    {
+      "id": "q0286",
+      "question": "Welche Netzadresse gehoert zu 172.28.121.133/20?",
+      "options": [
+        "172.28.127.255",
+        "172.28.112.0",
+        "172.28.128.0",
+        "172.28.111.255"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.240.0). Ergebnis: 172.28.112.0."
+    },
+    {
+      "id": "q0287",
+      "question": "Welche Netzadresse gehoert zu 192.168.74.106/21?",
+      "options": [
+        "192.168.80.0",
+        "192.168.71.255",
+        "192.168.72.0",
+        "192.168.79.255"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.248.0). Ergebnis: 192.168.72.0."
+    },
+    {
+      "id": "q0288",
+      "question": "Welche Netzadresse gehoert zu 10.42.125.155/22?",
+      "options": [
+        "10.42.123.255",
+        "10.42.128.0",
+        "10.42.127.255",
+        "10.42.124.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.252.0). Ergebnis: 10.42.124.0."
+    },
+    {
+      "id": "q0289",
+      "question": "Welche Netzadresse gehoert zu 172.21.208.226/23?",
+      "options": [
+        "172.21.209.255",
+        "172.21.207.255",
+        "172.21.208.0",
+        "172.21.210.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.254.0). Ergebnis: 172.21.208.0."
+    },
+    {
+      "id": "q0290",
+      "question": "Welche Netzadresse gehoert zu 192.168.113.157/24?",
+      "options": [
+        "192.168.113.255",
+        "192.168.114.0",
+        "192.168.113.0",
+        "192.168.112.255"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.0). Ergebnis: 192.168.113.0."
+    },
+    {
+      "id": "q0291",
+      "question": "Welche Netzadresse gehoert zu 10.63.182.224/25?",
+      "options": [
+        "10.63.182.128",
+        "10.63.182.255",
+        "10.63.183.0",
+        "10.63.182.127"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.128). Ergebnis: 10.63.182.128."
+    },
+    {
+      "id": "q0292",
+      "question": "Welche Netzadresse gehoert zu 172.30.39.63/26?",
+      "options": [
+        "172.30.39.0",
+        "172.30.39.64",
+        "172.30.38.255",
+        "172.30.39.63"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.192). Ergebnis: 172.30.39.0."
+    },
+    {
+      "id": "q0293",
+      "question": "Welche Netzadresse gehoert zu 192.168.152.208/27?",
+      "options": [
+        "192.168.152.224",
+        "192.168.152.192",
+        "192.168.152.223",
+        "192.168.152.191"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.224). Ergebnis: 192.168.152.192."
+    },
+    {
+      "id": "q0294",
+      "question": "Welche Netzadresse gehoert zu 10.84.239.37/28?",
+      "options": [
+        "10.84.239.47",
+        "10.84.239.32",
+        "10.84.239.48",
+        "10.84.239.31"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.240). Ergebnis: 10.84.239.32."
+    },
+    {
+      "id": "q0295",
+      "question": "Welche Netzadresse gehoert zu 172.23.126.156/29?",
+      "options": [
+        "172.23.126.159",
+        "172.23.126.151",
+        "172.23.126.160",
+        "172.23.126.152"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.248). Ergebnis: 172.23.126.152."
+    },
+    {
+      "id": "q0296",
+      "question": "Welche Netzadresse gehoert zu 192.168.191.3/30?",
+      "options": [
+        "192.168.191.4",
+        "192.168.191.3",
+        "192.168.190.255",
+        "192.168.191.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.252). Ergebnis: 192.168.191.0."
+    },
+    {
+      "id": "q0297",
+      "question": "Welche Netzadresse gehoert zu 10.105.40.106/16?",
+      "options": [
+        "10.105.255.255",
+        "10.104.255.255",
+        "10.106.0.0",
+        "10.105.0.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.0.0). Ergebnis: 10.105.0.0."
+    },
+    {
+      "id": "q0298",
+      "question": "Welche Netzadresse gehoert zu 172.16.213.249/17?",
+      "options": [
+        "172.16.127.255",
+        "172.16.255.255",
+        "172.16.128.0",
+        "172.17.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.128.0). Ergebnis: 172.16.128.0."
+    },
+    {
+      "id": "q0299",
+      "question": "Welche Netzadresse gehoert zu 192.168.230.54/18?",
+      "options": [
+        "192.168.192.0",
+        "192.169.0.0",
+        "192.168.255.255",
+        "192.168.191.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.192.0). Ergebnis: 192.168.192.0."
+    },
+    {
+      "id": "q0300",
+      "question": "Welche Netzadresse gehoert zu 10.126.97.175/19?",
+      "options": [
+        "10.126.127.255",
+        "10.126.96.0",
+        "10.126.95.255",
+        "10.126.128.0"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.224.0). Ergebnis: 10.126.96.0."
+    },
+    {
+      "id": "q0301",
+      "question": "Welche Netzadresse gehoert zu 172.25.44.86/20?",
+      "options": [
+        "172.25.47.255",
+        "172.25.31.255",
+        "172.25.32.0",
+        "172.25.48.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.240.0). Ergebnis: 172.25.32.0."
+    },
+    {
+      "id": "q0302",
+      "question": "Welche Netzadresse gehoert zu 192.168.13.105/21?",
+      "options": [
+        "192.168.8.0",
+        "192.168.16.0",
+        "192.168.7.255",
+        "192.168.15.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.248.0). Ergebnis: 192.168.8.0."
+    },
+    {
+      "id": "q0303",
+      "question": "Welche Netzadresse gehoert zu 10.147.154.244/22?",
+      "options": [
+        "10.147.152.0",
+        "10.147.155.255",
+        "10.147.156.0",
+        "10.147.151.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.252.0). Ergebnis: 10.147.152.0."
+    },
+    {
+      "id": "q0304",
+      "question": "Welche Netzadresse gehoert zu 172.18.131.179/23?",
+      "options": [
+        "172.18.131.255",
+        "172.18.132.0",
+        "172.18.129.255",
+        "172.18.130.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.254.0). Ergebnis: 172.18.130.0."
+    },
+    {
+      "id": "q0305",
+      "question": "Welche Netzadresse gehoert zu 192.168.52.156/24?",
+      "options": [
+        "192.168.52.255",
+        "192.168.51.255",
+        "192.168.53.0",
+        "192.168.52.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.0). Ergebnis: 192.168.52.0."
+    },
+    {
+      "id": "q0306",
+      "question": "Welche Netzadresse gehoert zu 10.168.211.57/25?",
+      "options": [
+        "10.168.211.0",
+        "10.168.211.128",
+        "10.168.211.127",
+        "10.168.210.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.128). Ergebnis: 10.168.211.0."
+    },
+    {
+      "id": "q0307",
+      "question": "Welche Netzadresse gehoert zu 172.27.218.16/26?",
+      "options": [
+        "172.27.218.63",
+        "172.27.217.255",
+        "172.27.218.0",
+        "172.27.218.64"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.192). Ergebnis: 172.27.218.0."
+    },
+    {
+      "id": "q0308",
+      "question": "Welche Netzadresse gehoert zu 192.168.91.207/27?",
+      "options": [
+        "192.168.91.224",
+        "192.168.91.223",
+        "192.168.91.192",
+        "192.168.91.191"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.224). Ergebnis: 192.168.91.192."
+    },
+    {
+      "id": "q0309",
+      "question": "Welche Netzadresse gehoert zu 10.189.12.126/28?",
+      "options": [
+        "10.189.12.128",
+        "10.189.12.112",
+        "10.189.12.111",
+        "10.189.12.127"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.240). Ergebnis: 10.189.12.112."
+    },
+    {
+      "id": "q0310",
+      "question": "Welche Netzadresse gehoert zu 172.20.49.109/29?",
+      "options": [
+        "172.20.49.112",
+        "172.20.49.111",
+        "172.20.49.104",
+        "172.20.49.103"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.248). Ergebnis: 172.20.49.104."
+    },
+    {
+      "id": "q0311",
+      "question": "Welche Netzadresse gehoert zu 192.168.130.2/30?",
+      "options": [
+        "192.168.130.0",
+        "192.168.130.3",
+        "192.168.130.4",
+        "192.168.129.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.255.252). Ergebnis: 192.168.130.0."
+    },
+    {
+      "id": "q0312",
+      "question": "Welche Netzadresse gehoert zu 10.210.69.195/16?",
+      "options": [
+        "10.211.0.0",
+        "10.209.255.255",
+        "10.210.0.0",
+        "10.210.255.255"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.0.0). Ergebnis: 10.210.0.0."
+    },
+    {
+      "id": "q0313",
+      "question": "Welche Netzadresse gehoert zu 172.29.136.202/17?",
+      "options": [
+        "172.30.0.0",
+        "172.29.255.255",
+        "172.29.127.255",
+        "172.29.128.0"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.128.0). Ergebnis: 172.29.128.0."
+    },
+    {
+      "id": "q0314",
+      "question": "Welche Netzadresse gehoert zu 192.168.169.53/18?",
+      "options": [
+        "192.168.192.0",
+        "192.168.127.255",
+        "192.168.128.0",
+        "192.168.191.255"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.192.0). Ergebnis: 192.168.128.0."
+    },
+    {
+      "id": "q0315",
+      "question": "Welche Netzadresse gehoert zu 10.231.126.8/19?",
+      "options": [
+        "10.231.95.255",
+        "10.231.96.0",
+        "10.231.128.0",
+        "10.231.127.255"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.224.0). Ergebnis: 10.231.96.0."
+    },
+    {
+      "id": "q0316",
+      "question": "Welche Netzadresse gehoert zu 172.22.223.39/20?",
+      "options": [
+        "172.22.208.0",
+        "172.22.207.255",
+        "172.22.224.0",
+        "172.22.223.255"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Netzadresse ergibt sich aus IP AND Maske (255.255.240.0). Ergebnis: 172.22.208.0."
+    },
+    {
+      "id": "q0317",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.16.7.15/19?",
+      "options": [
+        "172.16.0.1",
+        "172.16.31.254",
+        "172.16.31.255",
+        "172.16.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.16.31.255."
+    },
+    {
+      "id": "q0318",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.12.48/20?",
+      "options": [
+        "192.168.0.1",
+        "192.168.15.255",
+        "192.168.15.254",
+        "192.168.0.0"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.15.255."
+    },
+    {
+      "id": "q0319",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.22.47.67/21?",
+      "options": [
+        "10.22.40.0",
+        "10.22.47.255",
+        "10.22.40.1",
+        "10.22.47.254"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.22.47.255."
+    },
+    {
+      "id": "q0320",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.31.76.96/22?",
+      "options": [
+        "172.31.79.255",
+        "172.31.79.254",
+        "172.31.76.1",
+        "172.31.76.0"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.31.79.255."
+    },
+    {
+      "id": "q0321",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.39.93/23?",
+      "options": [
+        "192.168.38.1",
+        "192.168.39.254",
+        "192.168.38.0",
+        "192.168.39.255"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.39.255."
+    },
+    {
+      "id": "q0322",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.55.98.124/24?",
+      "options": [
+        "10.55.98.1",
+        "10.55.98.255",
+        "10.55.98.0",
+        "10.55.98.254"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.55.98.255."
+    },
+    {
+      "id": "q0323",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.30.145.177/25?",
+      "options": [
+        "172.30.145.129",
+        "172.30.145.254",
+        "172.30.145.255",
+        "172.30.145.128"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.30.145.255."
+    },
+    {
+      "id": "q0324",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.66.138/26?",
+      "options": [
+        "192.168.66.128",
+        "192.168.66.129",
+        "192.168.66.191",
+        "192.168.66.190"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.66.191."
+    },
+    {
+      "id": "q0325",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.88.149.181/27?",
+      "options": [
+        "10.88.149.191",
+        "10.88.149.161",
+        "10.88.149.190",
+        "10.88.149.160"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.88.149.191."
+    },
+    {
+      "id": "q0326",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.29.214.2/28?",
+      "options": [
+        "172.29.214.0",
+        "172.29.214.15",
+        "172.29.214.1",
+        "172.29.214.14"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.29.214.15."
+    },
+    {
+      "id": "q0327",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.93.183/29?",
+      "options": [
+        "192.168.93.182",
+        "192.168.93.176",
+        "192.168.93.183",
+        "192.168.93.177"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.93.183."
+    },
+    {
+      "id": "q0328",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.121.200.238/30?",
+      "options": [
+        "10.121.200.239",
+        "10.121.200.237",
+        "10.121.200.238",
+        "10.121.200.236"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.121.200.239."
+    },
+    {
+      "id": "q0329",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.28.27.83/16?",
+      "options": [
+        "172.28.255.255",
+        "172.28.255.254",
+        "172.28.0.1",
+        "172.28.0.0"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.28.255.255."
+    },
+    {
+      "id": "q0330",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.120.228/17?",
+      "options": [
+        "192.168.127.254",
+        "192.168.0.1",
+        "192.168.127.255",
+        "192.168.0.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.127.255."
+    },
+    {
+      "id": "q0331",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.154.251.39/18?",
+      "options": [
+        "10.154.255.254",
+        "10.154.255.255",
+        "10.154.192.1",
+        "10.154.192.0"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.154.255.255."
+    },
+    {
+      "id": "q0332",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.27.96.164/19?",
+      "options": [
+        "172.27.127.254",
+        "172.27.127.255",
+        "172.27.96.0",
+        "172.27.96.1"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.27.127.255."
+    },
+    {
+      "id": "q0333",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.147.17/20?",
+      "options": [
+        "192.168.159.255",
+        "192.168.144.1",
+        "192.168.159.254",
+        "192.168.144.0"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.159.255."
+    },
+    {
+      "id": "q0334",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.187.46.96/21?",
+      "options": [
+        "10.187.47.254",
+        "10.187.40.0",
+        "10.187.47.255",
+        "10.187.40.1"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.187.47.255."
+    },
+    {
+      "id": "q0335",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.26.165.245/22?",
+      "options": [
+        "172.26.167.255",
+        "172.26.167.254",
+        "172.26.164.1",
+        "172.26.164.0"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.26.167.255."
+    },
+    {
+      "id": "q0336",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.174.62/23?",
+      "options": [
+        "192.168.174.0",
+        "192.168.175.254",
+        "192.168.174.1",
+        "192.168.175.255"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.175.255."
+    },
+    {
+      "id": "q0337",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.220.97.153/24?",
+      "options": [
+        "10.220.97.0",
+        "10.220.97.254",
+        "10.220.97.1",
+        "10.220.97.255"
+      ],
+      "correct": 3,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.220.97.255."
+    },
+    {
+      "id": "q0338",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.25.234.70/25?",
+      "options": [
+        "172.25.234.127",
+        "172.25.234.126",
+        "172.25.234.0",
+        "172.25.234.1"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.25.234.127."
+    },
+    {
+      "id": "q0339",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.201.107/26?",
+      "options": [
+        "192.168.201.126",
+        "192.168.201.64",
+        "192.168.201.127",
+        "192.168.201.65"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.201.127."
+    },
+    {
+      "id": "q0340",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.253.148.210/27?",
+      "options": [
+        "10.253.148.192",
+        "10.253.148.222",
+        "10.253.148.223",
+        "10.253.148.193"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.253.148.223."
+    },
+    {
+      "id": "q0341",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.24.47.151/28?",
+      "options": [
+        "172.24.47.145",
+        "172.24.47.159",
+        "172.24.47.144",
+        "172.24.47.158"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.24.47.159."
+    },
+    {
+      "id": "q0342",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.228.152/29?",
+      "options": [
+        "192.168.228.158",
+        "192.168.228.159",
+        "192.168.228.153",
+        "192.168.228.152"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.228.159."
+    },
+    {
+      "id": "q0343",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.30.199.11/30?",
+      "options": [
+        "10.30.199.11",
+        "10.30.199.8",
+        "10.30.199.10",
+        "10.30.199.9"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.30.199.11."
+    },
+    {
+      "id": "q0344",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.23.116.232/16?",
+      "options": [
+        "172.23.0.0",
+        "172.23.255.255",
+        "172.23.255.254",
+        "172.23.0.1"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.23.255.255."
+    },
+    {
+      "id": "q0345",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.255.197/17?",
+      "options": [
+        "192.168.255.255",
+        "192.168.128.0",
+        "192.168.128.1",
+        "192.168.255.254"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.255.255."
+    },
+    {
+      "id": "q0346",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.63.250.68/18?",
+      "options": [
+        "10.63.192.1",
+        "10.63.255.255",
+        "10.63.255.254",
+        "10.63.192.0"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.63.255.255."
+    },
+    {
+      "id": "q0347",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.22.185.57/19?",
+      "options": [
+        "172.22.191.254",
+        "172.22.160.1",
+        "172.22.191.255",
+        "172.22.160.0"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.22.191.255."
+    },
+    {
+      "id": "q0348",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.26.242/20?",
+      "options": [
+        "192.168.16.0",
+        "192.168.16.1",
+        "192.168.31.255",
+        "192.168.31.254"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.31.255."
+    },
+    {
+      "id": "q0349",
+      "question": "Welche Broadcast-Adresse gehoert zu 10.96.45.125/21?",
+      "options": [
+        "10.96.40.1",
+        "10.96.47.255",
+        "10.96.40.0",
+        "10.96.47.254"
+      ],
+      "correct": 1,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 10.96.47.255."
+    },
+    {
+      "id": "q0350",
+      "question": "Welche Broadcast-Adresse gehoert zu 172.21.254.138/22?",
+      "options": [
+        "172.21.255.255",
+        "172.21.252.0",
+        "172.21.252.1",
+        "172.21.255.254"
+      ],
+      "correct": 0,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 172.21.255.255."
+    },
+    {
+      "id": "q0351",
+      "question": "Welche Broadcast-Adresse gehoert zu 192.168.53.31/23?",
+      "options": [
+        "192.168.52.1",
+        "192.168.52.0",
+        "192.168.53.255",
+        "192.168.53.254"
+      ],
+      "correct": 2,
+      "category": "Netzadresse und Broadcast",
+      "explanation": "Broadcast erhaelt man, wenn im Netz alle Host-Bits auf 1 gesetzt werden. Ergebnis: 192.168.53.255."
+    },
+    {
+      "id": "q0352",
+      "question": "Wie viele Bits hat eine IPv4-Adresse?",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "16"
+      ],
+      "correct": 0,
+      "category": "IPv4 Grundlagen",
+      "explanation": "IPv4 besteht aus 4 Oktetten zu je 8 Bit, also 32 Bit."
+    },
+    {
+      "id": "q0353",
+      "question": "Wie viele Bits hat eine IPv6-Adresse?",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
+      "correct": 2,
+      "category": "IPv6 Grundlagen",
+      "explanation": "IPv6 Adressen bestehen aus 128 Bit."
+    },
+    {
+      "id": "q0354",
+      "question": "Welche Adressierungsart beschreibt genau einen Empfaenger?",
+      "options": [
+        "Broadcast",
+        "Multicast",
+        "Anycast",
+        "Unicast"
+      ],
+      "correct": 3,
+      "category": "Adressierungsarten",
+      "explanation": "Unicast adressiert genau ein Zielsystem."
+    },
+    {
+      "id": "q0355",
+      "question": "Welche Adressierungsart beschreibt eine Gruppe von Empfaengern?",
+      "options": [
+        "Broadcast",
+        "Multicast",
+        "Unicast",
+        "Loopback"
+      ],
+      "correct": 1,
+      "category": "Adressierungsarten",
+      "explanation": "Multicast adressiert eine definierte Gruppe von Hosts."
+    },
+    {
+      "id": "q0356",
+      "question": "Welche IPv4-Adresse ist die klassische Loopback-Adresse?",
+      "options": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "255.255.255.255",
+        "169.254.0.1"
+      ],
+      "correct": 1,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "127.0.0.1 verweist auf den lokalen Host."
+    },
+    {
+      "id": "q0357",
+      "question": "Welche Adresse steht fuer den lokalen Broadcast im Subnetz?",
+      "options": [
+        "0.0.0.0",
+        "255.255.255.255",
+        "224.0.0.1",
+        "127.0.0.1"
+      ],
+      "correct": 1,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "255.255.255.255 ist die lokale Broadcast-Adresse."
+    },
+    {
+      "id": "q0358",
+      "question": "Was bedeutet die CIDR-Notation /24?",
+      "options": [
+        "24 Host-Bits",
+        "24 Netz-Bits",
+        "24 Oktette",
+        "24 Hex-Zeichen"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/24 bedeutet 24 gesetzte Bits im Netzanteil."
+    },
+    {
+      "id": "q0359",
+      "question": "Welche Netzmaske entspricht /30?",
+      "options": [
+        "255.255.255.0",
+        "255.255.255.192",
+        "255.255.255.252",
+        "255.255.255.248"
+      ],
+      "correct": 2,
+      "category": "Netzmasken und CIDR",
+      "explanation": "/30 laesst 2 Host-Bits offen und ist 255.255.255.252."
+    },
+    {
+      "id": "q0360",
+      "question": "Welches Ziel hat CIDR im Vergleich zu alten Klassen?",
+      "options": [
+        "Mehr Adressverschwendung",
+        "Flexible Praefixlaengen",
+        "Nur fuer IPv6",
+        "Nur fuer private Netze"
+      ],
+      "correct": 1,
+      "category": "Netzmasken und CIDR",
+      "explanation": "CIDR ermoeglicht flexible Netzgroessen ueber Praefixlaengen."
+    },
+    {
+      "id": "q0361",
+      "question": "Welche Schreibweise ist bei IPv6 nur einmal pro Adresse erlaubt?",
+      "options": [
+        "Fuehrende Nullen",
+        "Hex-Ziffern",
+        ":: fuer Nullbloecke",
+        "/64"
+      ],
+      "correct": 2,
+      "category": "IPv6 Grundlagen",
+      "explanation": "Die Doppelpunkt-Kompression :: darf nur einmal genutzt werden."
+    },
+    {
+      "id": "q0362",
+      "question": "Welche Aussage zu IPv6 ist korrekt?",
+      "options": [
+        "IPv6 nutzt 32 Bit",
+        "IPv6 wird dezimal notiert",
+        "IPv6 hat 8 Bloecke mit je 16 Bit",
+        "IPv6 hat immer Broadcast"
+      ],
+      "correct": 2,
+      "category": "IPv6 Grundlagen",
+      "explanation": "IPv6 besteht aus 8 Gruppen zu je 16 Bit, in Hex dargestellt."
+    },
+    {
+      "id": "q0363",
+      "question": "Was ist das Hauptziel von Subnetting?",
+      "options": [
+        "Mehr Broadcast im ganzen Netz",
+        "Bessere Segmentierung und Nutzung von Adressen",
+        "Ausschliesslich IPv6 ersetzen",
+        "Nur Routingtabellen vergroessern"
+      ],
+      "correct": 1,
+      "category": "Subnetting Grundlagen",
+      "explanation": "Subnetting segmentiert Netze effizient und reduziert Broadcast-Domaenen."
+    },
+    {
+      "id": "q0364",
+      "question": "Was passiert bei einem Wechsel von /24 auf /25?",
+      "options": [
+        "Host-Anzahl steigt",
+        "Anzahl der Subnetze sinkt",
+        "Es entstehen 2 gleich grosse Subnetze",
+        "Praefix wird kuerzer"
+      ],
+      "correct": 2,
+      "category": "Subnetting Grundlagen",
+      "explanation": "/24 auf /25 bedeutet ein zusaetzliches Netz-Bit und 2 Subnetze."
+    },
+    {
+      "id": "q0365",
+      "question": "Wofuer steht VLSM?",
+      "options": [
+        "Variable Length Subnet Masking",
+        "Virtual Link State Mapping",
+        "Verified Local Switch Mode",
+        "Value Layer Security Model"
+      ],
+      "correct": 0,
+      "category": "VLSM",
+      "explanation": "VLSM bedeutet Variable Length Subnet Masking."
+    },
+    {
+      "id": "q0366",
+      "question": "Warum wird VLSM eingesetzt?",
+      "options": [
+        "Nur fuer Loopback",
+        "Um unterschiedlich grosse Netze passend zuzuweisen",
+        "Nur bei /8 Netzen",
+        "Um Broadcast abzuschaffen"
+      ],
+      "correct": 1,
+      "category": "VLSM",
+      "explanation": "VLSM erlaubt bedarfsgerechte Subnetzgroessen."
+    },
+    {
+      "id": "q0367",
+      "question": "Welche Aussage zu 0.0.0.0 ist richtig?",
+      "options": [
+        "Loopback-Adresse",
+        "Unbestimmte Quelladresse oder Default-Route-Kontext",
+        "Lokaler Broadcast",
+        "Privater Bereich RFC1918"
+      ],
+      "correct": 1,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "0.0.0.0 steht typischerweise fuer nicht festgelegte Adresse bzw. Default."
+    },
+    {
+      "id": "q0368",
+      "question": "Welcher Bereich ist nach RFC1918 privat?",
+      "options": [
+        "11.0.0.0/8",
+        "172.16.0.0/12",
+        "100.64.0.0/10",
+        "8.8.8.0/24"
+      ],
+      "correct": 1,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "172.16.0.0 bis 172.31.255.255 ist privat."
+    },
+    {
+      "id": "q0369",
+      "question": "Welcher Bereich ist ebenfalls privat nach RFC1918?",
+      "options": [
+        "192.168.0.0/16",
+        "192.0.2.0/24",
+        "198.51.100.0/24",
+        "203.0.113.0/24"
+      ],
+      "correct": 0,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "192.168.0.0/16 ist ein privater IPv4-Adressbereich."
+    },
+    {
+      "id": "q0370",
+      "question": "Welcher Bereich ist Link-Local in IPv4 (APIPA)?",
+      "options": [
+        "127.0.0.0/8",
+        "169.254.0.0/16",
+        "224.0.0.0/4",
+        "10.0.0.0/8"
+      ],
+      "correct": 1,
+      "category": "Spezielle IP-Adressen",
+      "explanation": "169.254.0.0/16 wird fuer automatische lokale Adressen genutzt."
+    },
+    {
+      "id": "q0371",
+      "question": "Welche Adresse wird bei Broadcast innerhalb eines Subnetzes verwendet?",
+      "options": [
+        "Erste Hostadresse",
+        "Netzadresse",
+        "Letzte Adresse des Subnetzes",
+        "127.0.0.1"
+      ],
+      "correct": 2,
+      "category": "Adressierungsarten",
+      "explanation": "Die Broadcast-Adresse ist die letzte Adresse im jeweiligen Netz."
+    },
+    {
+      "id": "q0372",
+      "question": "Welche Operation wird fuer die Netzadresse benoetigt?",
+      "options": [
+        "OR zwischen IP und Maske",
+        "XOR zwischen IP und Maske",
+        "AND zwischen IP und Maske",
+        "NOT auf die IP"
+      ],
+      "correct": 2,
+      "category": "Netzberechnung",
+      "explanation": "Netzadresse = IP-Adresse AND Subnetzmaske."
+    },
+    {
+      "id": "q0373",
+      "question": "Wie erhaelt man die Broadcast-Adresse aus der Netzadresse?",
+      "options": [
+        "Host-Bits auf 0 setzen",
+        "Host-Bits auf 1 setzen",
+        "Netz-Bits invertieren",
+        "Nur erstes Oktett erhoehen"
+      ],
+      "correct": 1,
+      "category": "Netzberechnung",
+      "explanation": "Fuer Broadcast werden alle Host-Bits auf 1 gesetzt."
+    },
+    {
+      "id": "q0374",
+      "question": "Warum wird bei klassischen IPv4-Subnetzen oft -2 gerechnet?",
+      "options": [
+        "Wegen Gateway und DNS",
+        "Wegen Netz- und Broadcast-Adresse",
+        "Wegen reservierter Ports",
+        "Wegen IPv6-Kompatibilitaet"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Netzadresse und Broadcast-Adresse sind nicht als Host nutzbar."
+    },
+    {
+      "id": "q0375",
+      "question": "Welche Formel beschreibt die Anzahl nutzbarer Hosts (klassisch)?",
+      "options": [
+        "2^(Netzbits) - 2",
+        "2^(Hostbits) - 2",
+        "2^(Hostbits) + 2",
+        "Hostbits * 2"
+      ],
+      "correct": 1,
+      "category": "Hostberechnung",
+      "explanation": "Bei klassischer Berechnung gilt: nutzbare Hosts = 2^h - 2."
+    },
+    {
+      "id": "q0376",
+      "question": "Wie viele Oktette besitzt eine IPv4-Adresse?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 1,
+      "category": "IPv4 Grundlagen",
+      "explanation": "IPv4 besteht aus 4 Oktetten."
+    },
+    {
+      "id": "q0377",
+      "question": "Welcher Wertebereich gilt pro IPv4-Oktett?",
+      "options": [
+        "0-127",
+        "1-254",
+        "0-255",
+        "0-1024"
+      ],
+      "correct": 2,
+      "category": "IPv4 Grundlagen",
+      "explanation": "Ein Oktett umfasst 8 Bit und damit Werte von 0 bis 255."
+    },
+    {
+      "id": "q0378",
+      "question": "Wie viele hexadezimale Zeichen hat ein voller IPv6-Block?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 1,
+      "category": "IPv6 Grundlagen",
+      "explanation": "Jeder IPv6-Block umfasst 16 Bit, also 4 Hex-Zeichen."
+    },
+    {
+      "id": "q0379",
+      "question": "Welche Notation wird fuer IPv6 genutzt?",
+      "options": [
+        "Punkt-Dezimal",
+        "Hexadezimal mit Doppelpunkten",
+        "Nur binaer",
+        "Nur CIDR ohne Adresse"
+      ],
+      "correct": 1,
+      "category": "IPv6 Grundlagen",
+      "explanation": "IPv6 wird in hexadezimalen Gruppen getrennt durch : dargestellt."
+    },
+    {
+      "id": "q0380",
+      "question": "Was beschreibt die Schrittweite bei Subnetting?",
+      "options": [
+        "Anzahl Gateways",
+        "Sprungweite der Netzadressen im variablen Oktett",
+        "Anzahl VLANs",
+        "Anzahl DNS-Server"
+      ],
+      "correct": 1,
+      "category": "Subnetting Grundlagen",
+      "explanation": "Die Schrittweite bestimmt den Abstand zwischen aufeinanderfolgenden Netzen."
+    },
+    {
+      "id": "q0381",
+      "question": "Welche Aussage trifft auf ueberlappende Subnetze zu?",
+      "options": [
+        "Sind immer gueltig",
+        "Fuehren zu Routingproblemen",
+        "Verbessern Sicherheit automatisch",
+        "Sind nur bei IPv6 moeglich"
+      ],
+      "correct": 1,
+      "category": "Subnetting Grundlagen",
+      "explanation": "Ueberlappungen verursachen Mehrdeutigkeiten im Routing."
+    },
+    {
+      "id": "q0382",
+      "question": "Was ist ein typischer erster Schritt bei VLSM?",
+      "options": [
+        "Kleinste Netze zuerst zuweisen",
+        "Groesste Hostanforderung zuerst planen",
+        "Broadcast deaktivieren",
+        "Nur /24 verwenden"
+      ],
+      "correct": 1,
+      "category": "VLSM",
+      "explanation": "Bei VLSM plant man meist vom groessten zum kleinsten Netzbedarf."
+    },
+    {
+      "id": "q0383",
+      "question": "Warum hilft Subnetting beim Routing?",
+      "options": [
+        "Es entfernt IP-Adressen",
+        "Es strukturiert Netze und vereinfacht Routen",
+        "Es ersetzt Switches",
+        "Es verhindert jedes Broadcast"
+      ],
+      "correct": 1,
+      "category": "Praxis Routing",
+      "explanation": "Segmentierte Netze lassen sich sauber und effizient routen."
+    },
+    {
+      "id": "q0384",
+      "question": "Warum ist korrekte Subnetzplanung fuer DHCP wichtig?",
+      "options": [
+        "DHCP arbeitet nur mit IPv6",
+        "Adresspools muessen zur Netzgroesse passen",
+        "DHCP vergibt nur Broadcast-Adressen",
+        "DHCP ignoriert Masken"
+      ],
+      "correct": 1,
+      "category": "Praxis DHCP",
+      "explanation": "Der DHCP-Pool muss den gueltigen Hostbereich eines Subnetzes treffen."
+    },
+    {
+      "id": "q0385",
+      "question": "Wie unterstuetzt Subnetting Firewall-Regeln?",
+      "options": [
+        "Gar nicht",
+        "Regeln koennen pro Segment gezielt definiert werden",
+        "Nur fuer private Netze",
+        "Nur mit /30"
+      ],
+      "correct": 1,
+      "category": "Praxis Firewall",
+      "explanation": "Segmentierung ermoeglicht klar abgegrenzte Regelwerke."
+    },
+    {
+      "id": "q0386",
+      "question": "Warum ist Hexadezimal in der IT beliebt?",
+      "options": [
+        "Weil es keine Buchstaben nutzt",
+        "Weil 1 Hex-Zeichen 4 Bit repraesentiert",
+        "Weil es weniger praezise ist",
+        "Weil es nur fuer IPv6 gilt"
+      ],
+      "correct": 1,
+      "category": "Zahlensysteme",
+      "explanation": "Hex ist kompakt und passt exakt zu 4-Bit-Nibbles."
+    },
+    {
+      "id": "q0387",
+      "question": "Welche Basis hat das binaere Zahlensystem?",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "correct": 0,
+      "category": "Zahlensysteme",
+      "explanation": "Das Binaersystem arbeitet mit Basis 2."
+    },
+    {
+      "id": "q0388",
+      "question": "Welche Basis hat das hexadezimale Zahlensystem?",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "correct": 3,
+      "category": "Zahlensysteme",
+      "explanation": "Hexadezimal hat die Basis 16."
+    },
+    {
+      "id": "q0389",
+      "question": "Welche Ziffern werden im Hexadezimalsystem zusaetzlich zu 0-9 genutzt?",
+      "options": [
+        "G-L",
+        "A-F",
+        "R-W",
+        "X-Z"
+      ],
+      "correct": 1,
+      "category": "Zahlensysteme",
+      "explanation": "A bis F stehen fuer die Werte 10 bis 15."
+    },
+    {
+      "id": "q0390",
+      "question": "Welche Schreibweise ist moderner und flexibler als Klassen?",
+      "options": [
+        "CIDR-Praefix",
+        "Nur dotted decimal ohne Praefix",
+        "MAC-Notation",
+        "Hex-Notation"
+      ],
+      "correct": 0,
+      "category": "Netzmasken und CIDR",
+      "explanation": "CIDR nutzt flexible Praefixlaengen und ersetzt Klassenmodelle."
+    },
+    {
+      "id": "q0391",
+      "question": "Welche Adresse ist in einem Subnetz nie einem Host zuweisbar?",
+      "options": [
+        "Die zweite Hostadresse",
+        "Die Netzadresse",
+        "Die Adresse des Gateways",
+        "Die DNS-Adresse"
+      ],
+      "correct": 1,
+      "category": "Netzberechnung",
+      "explanation": "Die Netzadresse identifiziert das Subnetz selbst."
+    },
+    {
+      "id": "q0392",
+      "question": "Welche Adresse ist in einem Subnetz ebenfalls nicht als Host nutzbar?",
+      "options": [
+        "Broadcast-Adresse",
+        "Erste Hostadresse",
+        "Zweite Hostadresse",
+        "Beliebige private Adresse"
+      ],
+      "correct": 0,
+      "category": "Netzberechnung",
+      "explanation": "Die Broadcast-Adresse ist reserviert."
+    }
+  ]
+}
