@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  // Relative Asset-Pfade machen den Build direkt GitHub-Pages-tauglich.
-  base: "./",
+  // Base path set for GitHub Pages repository
+  base: "/WARA-ITS-MASS-KLA01-APP-01-Static/",
   plugins: [react()]
 });
